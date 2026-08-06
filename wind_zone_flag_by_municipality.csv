@@ -1,0 +1,2137 @@
+municipality,bfs_number,dist_to_zone_m,in_zone,near_3km,zone_category
+Aadorf,4551,0,TRUE,TRUE,high_potential
+Aarau,4001,12500,FALSE,FALSE,moderate_potential
+Aarberg,301,2500,FALSE,TRUE,good_potential
+Aarburg,4271,7071,FALSE,FALSE,moderate_potential
+Aarwangen,321,2500,FALSE,TRUE,good_potential
+Abtwil,4221,0,TRUE,TRUE,high_potential
+Aclens,5621,0,TRUE,TRUE,high_potential
+Acquarossa,5048,21360,FALSE,FALSE,moderate_potential
+Adelboden,561,0,TRUE,TRUE,high_potential
+Adligenswil,1051,2500,FALSE,TRUE,good_potential
+Adliswil,131,10000,FALSE,FALSE,moderate_potential
+Aedermannsdorf,2421,0,TRUE,TRUE,high_potential
+Aefligen,401,5000,FALSE,FALSE,moderate_potential
+Aegerten,731,5000,FALSE,FALSE,moderate_potential
+Aesch (BL),2761,3536,FALSE,FALSE,moderate_potential
+Aesch (LU),1021,5000,FALSE,FALSE,moderate_potential
+Aesch (ZH),241,15207,FALSE,FALSE,moderate_potential
+Aeschi (SO),2511,2500,FALSE,TRUE,good_potential
+Aeschi bei Spiez,562,0,TRUE,TRUE,high_potential
+Aeugst am Albis,1,12748,FALSE,FALSE,moderate_potential
+Affeltrangen,4711,2500,FALSE,TRUE,good_potential
+Affoltern am Albis,2,12500,FALSE,FALSE,moderate_potential
+Affoltern im Emmental,951,0,TRUE,TRUE,high_potential
+Agarn,6101,7500,FALSE,FALSE,moderate_potential
+Agiez,5742,0,TRUE,TRUE,high_potential
+Agno,5141,14577,FALSE,FALSE,moderate_potential
+Aigle,5401,5000,FALSE,FALSE,moderate_potential
+Aire-la-Ville,6601,0,TRUE,TRUE,high_potential
+Airolo,5061,0,TRUE,TRUE,high_potential
+Alberswil,1121,2500,FALSE,TRUE,good_potential
+Albinen,6102,10607,FALSE,FALSE,moderate_potential
+Albula/Alvra,3542,2500,FALSE,TRUE,good_potential
+Alchenstorf,402,2500,FALSE,TRUE,good_potential
+Allaman,5851,5590,FALSE,FALSE,moderate_potential
+Alle,6771,5000,FALSE,FALSE,moderate_potential
+Allmendingen,630,2500,FALSE,TRUE,good_potential
+Allschwil,2762,10000,FALSE,FALSE,moderate_potential
+Alpnach,1401,7071,FALSE,FALSE,moderate_potential
+Alpthal,1361,0,TRUE,TRUE,high_potential
+Altbüron,1122,0,TRUE,TRUE,high_potential
+Altdorf (UR),1201,2500,FALSE,TRUE,good_potential
+Altendorf,1341,0,TRUE,TRUE,high_potential
+Altikon,211,3536,FALSE,FALSE,moderate_potential
+Altishofen,1123,0,TRUE,TRUE,high_potential
+Altnau,4641,2500,FALSE,TRUE,good_potential
+Alto Malcantone,5237,9014,FALSE,FALSE,moderate_potential
+Altstätten,3251,0,TRUE,TRUE,high_potential
+Amden,3311,5590,FALSE,FALSE,moderate_potential
+Amlikon-Bissegg,4881,2500,FALSE,TRUE,good_potential
+Ammerswil,4191,0,TRUE,TRUE,high_potential
+Amriswil,4461,3536,FALSE,FALSE,moderate_potential
+Amsoldingen,921,7906,FALSE,FALSE,moderate_potential
+Andeer,3701,0,TRUE,TRUE,high_potential
+Andelfingen,291,0,TRUE,TRUE,high_potential
+Andermatt,1202,2500,FALSE,TRUE,good_potential
+Andwil (SG),3441,2500,FALSE,TRUE,good_potential
+Anières,6602,2500,FALSE,TRUE,good_potential
+Anniviers,6252,9014,FALSE,FALSE,moderate_potential
+Anwil,2841,7906,FALSE,FALSE,moderate_potential
+Appenzell,3101,0,TRUE,TRUE,high_potential
+Aranno,5143,10607,FALSE,FALSE,moderate_potential
+Arbaz,6261,10000,FALSE,FALSE,moderate_potential
+Arbedo-Castione,5001,0,TRUE,TRUE,high_potential
+Arboldswil,2881,0,TRUE,TRUE,high_potential
+Arbon,4401,5590,FALSE,FALSE,moderate_potential
+Arch,381,9014,FALSE,FALSE,moderate_potential
+Ardon,6021,7071,FALSE,FALSE,moderate_potential
+Arisdorf,2821,2500,FALSE,TRUE,good_potential
+Aristau,4222,7906,FALSE,FALSE,moderate_potential
+Arlesheim,2763,5590,FALSE,FALSE,moderate_potential
+Arnex-sur-Nyon,5701,11180,FALSE,FALSE,moderate_potential
+Arnex-sur-Orbe,5743,0,TRUE,TRUE,high_potential
+Arni (AG),4061,11180,FALSE,FALSE,moderate_potential
+Arni (BE),602,0,TRUE,TRUE,high_potential
+Arogno,5144,15000,FALSE,FALSE,moderate_potential
+Arosa,3921,0,TRUE,TRUE,high_potential
+Arth,1362,3536,FALSE,FALSE,moderate_potential
+Arzier-Le Muids,5702,5000,FALSE,FALSE,moderate_potential
+Ascona,5091,18200,FALSE,FALSE,moderate_potential
+Assens,5511,0,TRUE,TRUE,high_potential
+Attalens,2321,2500,FALSE,TRUE,good_potential
+Attinghausen,1203,5590,FALSE,FALSE,moderate_potential
+Attiswil,971,2500,FALSE,TRUE,good_potential
+Au (SG),3231,2500,FALSE,TRUE,good_potential
+Aubonne,5422,3536,FALSE,FALSE,moderate_potential
+Auenstein,4091,7071,FALSE,FALSE,moderate_potential
+Augst,2822,5590,FALSE,FALSE,moderate_potential
+Ausserberg,6191,2500,FALSE,TRUE,good_potential
+Auswil,322,0,TRUE,TRUE,high_potential
+Autigny,2173,2500,FALSE,TRUE,good_potential
+Auw,4223,2500,FALSE,TRUE,good_potential
+Avegno Gordevio,5324,20156,FALSE,FALSE,moderate_potential
+Avenches,5451,7906,FALSE,FALSE,moderate_potential
+Avers,3681,10000,FALSE,FALSE,moderate_potential
+Avry,2174,7071,FALSE,FALSE,moderate_potential
+Avully,6603,2500,FALSE,TRUE,good_potential
+Avusy,6604,0,TRUE,TRUE,high_potential
+Ayent,6082,3536,FALSE,FALSE,moderate_potential
+Baar,1701,2500,FALSE,TRUE,good_potential
+Bachenbülach,51,16008,FALSE,FALSE,moderate_potential
+Bachs,81,21360,FALSE,FALSE,moderate_potential
+Bad Ragaz,3291,0,TRUE,TRUE,high_potential
+Baden,4021,9014,FALSE,FALSE,moderate_potential
+Balerna,5242,27500,FALSE,FALSE,moderate_potential
+Balgach,3232,0,TRUE,TRUE,high_potential
+Ballaigues,5744,2500,FALSE,TRUE,good_potential
+Ballens,5423,2500,FALSE,TRUE,good_potential
+Ballwil,1023,5000,FALSE,FALSE,moderate_potential
+Balm bei Günsberg,2541,5590,FALSE,FALSE,moderate_potential
+Balsthal,2422,2500,FALSE,TRUE,good_potential
+Baltschieder,6281,7500,FALSE,FALSE,moderate_potential
+Balzers,7003,2500,FALSE,TRUE,good_potential
+Bannwil,323,0,TRUE,TRUE,high_potential
+Bardonnex,6605,0,TRUE,TRUE,high_potential
+Bargen (BE),302,0,TRUE,TRUE,high_potential
+Bargen (SH),2931,15811,FALSE,FALSE,moderate_potential
+Bas-Intyamon,2162,0,TRUE,TRUE,high_potential
+Basadingen-Schlattingen,4536,2500,FALSE,TRUE,good_potential
+Basel,2701,10000,FALSE,FALSE,moderate_potential
+Basse-Allaine,6807,11180,FALSE,FALSE,moderate_potential
+Basse-Vendline,6812,10000,FALSE,FALSE,moderate_potential
+Bassersdorf,52,12500,FALSE,FALSE,moderate_potential
+Bassins,5703,2500,FALSE,TRUE,good_potential
+Baulmes,5745,0,TRUE,TRUE,high_potential
+Bauma,297,2500,FALSE,TRUE,good_potential
+Bavois,5746,0,TRUE,TRUE,high_potential
+Beatenberg,571,0,TRUE,TRUE,high_potential
+Beckenried,1501,7906,FALSE,FALSE,moderate_potential
+Bedano,5148,7071,FALSE,FALSE,moderate_potential
+Bedretto,5063,3536,FALSE,FALSE,moderate_potential
+Beggingen,2951,16008,FALSE,FALSE,moderate_potential
+Begnins,5704,0,TRUE,TRUE,high_potential
+Beinwil (Freiamt),4224,0,TRUE,TRUE,high_potential
+Beinwil (SO),2612,0,TRUE,TRUE,high_potential
+Beinwil am See,4131,2500,FALSE,TRUE,good_potential
+Belfaux,2175,7906,FALSE,FALSE,moderate_potential
+Bellach,2542,7906,FALSE,FALSE,moderate_potential
+Bellevue,6606,5000,FALSE,FALSE,moderate_potential
+Bellikon,4022,9014,FALSE,FALSE,moderate_potential
+Bellinzona,5002,2500,FALSE,TRUE,good_potential
+Bellmund,732,5590,FALSE,FALSE,moderate_potential
+Bellwald,6052,2500,FALSE,TRUE,good_potential
+Belmont-Broye,2053,10308,FALSE,FALSE,moderate_potential
+Belmont-sur-Lausanne,5581,2500,FALSE,TRUE,good_potential
+Belmont-sur-Yverdon,5902,0,TRUE,TRUE,high_potential
+Belp,861,2500,FALSE,TRUE,good_potential
+Belprahon,681,2500,FALSE,TRUE,good_potential
+Benken (SG),3312,5590,FALSE,FALSE,moderate_potential
+Benken (ZH),22,2500,FALSE,TRUE,good_potential
+Bennwil,2882,2500,FALSE,TRUE,good_potential
+Bercher,5512,0,TRUE,TRUE,high_potential
+Berg (SG),3211,0,TRUE,TRUE,high_potential
+Berg (TG),4891,2500,FALSE,TRUE,good_potential
+Berg am Irchel,23,7906,FALSE,FALSE,moderate_potential
+Bergdietikon,4023,12500,FALSE,FALSE,moderate_potential
+Bergün Filisur,3544,9014,FALSE,FALSE,moderate_potential
+Berikon,4062,10308,FALSE,FALSE,moderate_potential
+Beringen,2932,7906,FALSE,FALSE,moderate_potential
+Berken,972,2500,FALSE,TRUE,good_potential
+Berlingen,4801,0,TRUE,TRUE,high_potential
+Bern,351,2500,FALSE,TRUE,good_potential
+Berneck,3233,2500,FALSE,TRUE,good_potential
+Bernex,6607,0,TRUE,TRUE,high_potential
+Berolle,5424,5000,FALSE,FALSE,moderate_potential
+Beromünster,1081,0,TRUE,TRUE,high_potential
+Besenbüren,4226,7500,FALSE,FALSE,moderate_potential
+Bettenhausen,973,0,TRUE,TRUE,high_potential
+Bettens,5471,0,TRUE,TRUE,high_potential
+Bettingen,2702,12500,FALSE,FALSE,moderate_potential
+Bettlach,2543,3536,FALSE,FALSE,moderate_potential
+Bettmeralp,6205,0,TRUE,TRUE,high_potential
+Bettwiesen,4716,2500,FALSE,TRUE,good_potential
+Bettwil,4227,3536,FALSE,FALSE,moderate_potential
+Bever,3781,12748,FALSE,FALSE,moderate_potential
+Bex,5402,5000,FALSE,FALSE,moderate_potential
+Biasca,5281,15207,FALSE,FALSE,moderate_potential
+Biberist,2513,7906,FALSE,FALSE,moderate_potential
+Biberstein,4002,11180,FALSE,FALSE,moderate_potential
+Bichelsee-Balterswil,4721,5590,FALSE,FALSE,moderate_potential
+Biel-Benken,2764,5000,FALSE,FALSE,moderate_potential
+Biel/Bienne,371,0,TRUE,TRUE,high_potential
+Bielersee (BE),9149,2500,FALSE,TRUE,good_potential
+Bielersee (NE),9150,2500,FALSE,TRUE,good_potential
+Biezwil,2445,11180,FALSE,FALSE,moderate_potential
+Biglen,603,0,TRUE,TRUE,high_potential
+Billens-Hennens,2063,0,TRUE,TRUE,high_potential
+Binn,6054,2500,FALSE,TRUE,good_potential
+Binningen,2765,7500,FALSE,FALSE,moderate_potential
+Bioggio,5151,12500,FALSE,FALSE,moderate_potential
+Bioley-Magnoux,5903,2500,FALSE,TRUE,good_potential
+Birmensdorf (ZH),242,15811,FALSE,FALSE,moderate_potential
+Birmenstorf (AG),4024,11180,FALSE,FALSE,moderate_potential
+Birr,4092,7500,FALSE,FALSE,moderate_potential
+Birrhard,4093,7906,FALSE,FALSE,moderate_potential
+Birrwil,4132,2500,FALSE,TRUE,good_potential
+Birsfelden,2766,11180,FALSE,FALSE,moderate_potential
+Birwinken,4901,3536,FALSE,FALSE,moderate_potential
+Bischofszell,4471,5000,FALSE,FALSE,moderate_potential
+Bissone,5154,17678,FALSE,FALSE,moderate_potential
+Bister,6172,7500,FALSE,FALSE,moderate_potential
+Bitsch,6173,5590,FALSE,FALSE,moderate_potential
+Bière,5425,5000,FALSE,FALSE,moderate_potential
+Blatten,6192,9014,FALSE,FALSE,moderate_potential
+Blauen,2781,0,TRUE,TRUE,high_potential
+Bleienbach,324,0,TRUE,TRUE,high_potential
+Blenio,5049,12500,FALSE,FALSE,moderate_potential
+Blonay - Saint-Légier,5892,0,TRUE,TRUE,high_potential
+Blumenstein,922,10000,FALSE,FALSE,moderate_potential
+Bodensee (SG),9328,5000,FALSE,FALSE,moderate_potential
+Bodensee (TG),9329,2500,FALSE,TRUE,good_potential
+Bofflens,5747,0,TRUE,TRUE,high_potential
+Bogis-Bossey,5705,13463,FALSE,FALSE,moderate_potential
+Bois-d'Amont,2238,2500,FALSE,TRUE,good_potential
+Bolken,2514,2500,FALSE,TRUE,good_potential
+Bolligen,352,0,TRUE,TRUE,high_potential
+Boltigen,791,0,TRUE,TRUE,high_potential
+Bonaduz,3721,3536,FALSE,FALSE,moderate_potential
+Boncourt,6774,13463,FALSE,FALSE,moderate_potential
+Boningen,2571,2500,FALSE,TRUE,good_potential
+Boniswil,4192,0,TRUE,TRUE,high_potential
+Bonstetten,3,15000,FALSE,FALSE,moderate_potential
+Bonvillars,5551,0,TRUE,TRUE,high_potential
+Boppelsen,82,19526,FALSE,FALSE,moderate_potential
+Borex,5706,10607,FALSE,FALSE,moderate_potential
+Bosco/Gurin,5304,22361,FALSE,FALSE,moderate_potential
+Bossonnens,2323,0,TRUE,TRUE,high_potential
+Boswil,4228,5590,FALSE,FALSE,moderate_potential
+Bottens,5514,0,TRUE,TRUE,high_potential
+Bottenwil,4273,2500,FALSE,TRUE,good_potential
+Botterens,2123,3536,FALSE,FALSE,moderate_potential
+Bottighofen,4643,3536,FALSE,FALSE,moderate_potential
+Bottmingen,2767,5000,FALSE,FALSE,moderate_potential
+Boudry,6404,2500,FALSE,TRUE,good_potential
+Bougy-Villars,5426,0,TRUE,TRUE,high_potential
+Boulens,5661,0,TRUE,TRUE,high_potential
+Bourg-Saint-Pierre,6032,10000,FALSE,FALSE,moderate_potential
+Bourg-en-Lavaux,5613,0,TRUE,TRUE,high_potential
+Bournens,5472,0,TRUE,TRUE,high_potential
+Bourrignon,6703,2500,FALSE,TRUE,good_potential
+Boussens,5473,2500,FALSE,TRUE,good_potential
+Bovernier,6131,3536,FALSE,FALSE,moderate_potential
+Bowil,605,0,TRUE,TRUE,high_potential
+Boécourt,6702,2500,FALSE,TRUE,good_potential
+Braunau,4723,0,TRUE,TRUE,high_potential
+Bregaglia,3792,15207,FALSE,FALSE,moderate_potential
+Breggia,5269,20000,FALSE,FALSE,moderate_potential
+Breil/Brigels,3981,2500,FALSE,TRUE,good_potential
+Breitenbach,2613,2500,FALSE,TRUE,good_potential
+Bremblens,5622,0,TRUE,TRUE,high_potential
+Bremgarten (AG),4063,7906,FALSE,FALSE,moderate_potential
+Bremgarten bei Bern,353,5000,FALSE,FALSE,moderate_potential
+Brenzikofen,606,0,TRUE,TRUE,high_potential
+Bretigny-sur-Morrens,5515,0,TRUE,TRUE,high_potential
+Bretonnières,5748,0,TRUE,TRUE,high_potential
+Bretzwil,2883,2500,FALSE,TRUE,good_potential
+Brienz (BE),573,5000,FALSE,FALSE,moderate_potential
+Brienzersee,9089,7071,FALSE,FALSE,moderate_potential
+Brienzwiler,574,2500,FALSE,TRUE,good_potential
+Brig-Glis,6002,2500,FALSE,TRUE,good_potential
+Brione sopra Minusio,5096,16008,FALSE,FALSE,moderate_potential
+Brislach,2782,2500,FALSE,TRUE,good_potential
+Brissago,5097,22500,FALSE,FALSE,moderate_potential
+Brittnau,4274,3536,FALSE,FALSE,moderate_potential
+Broc,2124,5000,FALSE,FALSE,moderate_potential
+Brot-Plamboz,6433,0,TRUE,TRUE,high_potential
+Brugg,4095,10308,FALSE,FALSE,moderate_potential
+Brunegg,4193,5000,FALSE,FALSE,moderate_potential
+Brusino Arsizio,5160,17678,FALSE,FALSE,moderate_potential
+Brusio,3551,53151,FALSE,FALSE,moderate_potential
+Brügg,733,5000,FALSE,FALSE,moderate_potential
+Brünisried,2292,3536,FALSE,FALSE,moderate_potential
+Brüttelen,491,2500,FALSE,TRUE,good_potential
+Brütten,213,11180,FALSE,FALSE,moderate_potential
+Bubendorf,2823,2500,FALSE,TRUE,good_potential
+Bubikon,112,7071,FALSE,FALSE,moderate_potential
+Buch (SH),2961,7071,FALSE,FALSE,moderate_potential
+Buch am Irchel,24,7071,FALSE,FALSE,moderate_potential
+Buchberg,2933,7500,FALSE,FALSE,moderate_potential
+Buchegg,2465,10607,FALSE,FALSE,moderate_potential
+Buchholterberg,923,0,TRUE,TRUE,high_potential
+Buchillon,5623,7500,FALSE,FALSE,moderate_potential
+Buchrain,1052,2500,FALSE,TRUE,good_potential
+Buchs (AG),4003,10308,FALSE,FALSE,moderate_potential
+Buchs (SG),3271,12748,FALSE,FALSE,moderate_potential
+Buchs (ZH),83,20156,FALSE,FALSE,moderate_potential
+Buckten,2843,2500,FALSE,TRUE,good_potential
+Bulle,2125,2500,FALSE,TRUE,good_potential
+Bullet,5552,0,TRUE,TRUE,high_potential
+Buochs,1502,9014,FALSE,FALSE,moderate_potential
+Bure,6778,7906,FALSE,FALSE,moderate_potential
+Burg im Leimental,2783,0,TRUE,TRUE,high_potential
+Burgdorf,404,0,TRUE,TRUE,high_potential
+Burgistein,863,7500,FALSE,FALSE,moderate_potential
+Bursinel,5852,3536,FALSE,FALSE,moderate_potential
+Bursins,5853,0,TRUE,TRUE,high_potential
+Burtigny,5854,0,TRUE,TRUE,high_potential
+Buseno,3804,7500,FALSE,FALSE,moderate_potential
+Bussigny,5624,0,TRUE,TRUE,high_potential
+Bussnang,4921,2500,FALSE,TRUE,good_potential
+Busswil bei Melchnau,325,0,TRUE,TRUE,high_potential
+Bussy-sur-Moudon,5663,0,TRUE,TRUE,high_potential
+Buttisholz,1083,0,TRUE,TRUE,high_potential
+Buttwil,4230,5590,FALSE,FALSE,moderate_potential
+Buus,2844,2500,FALSE,TRUE,good_potential
+Bäretswil,111,0,TRUE,TRUE,high_potential
+Bäriswil,403,0,TRUE,TRUE,high_potential
+Bärschwil,2611,2500,FALSE,TRUE,good_potential
+Bätterkinden,533,10308,FALSE,FALSE,moderate_potential
+Bättwil,2471,2500,FALSE,TRUE,good_potential
+Böckten,2842,2500,FALSE,TRUE,good_potential
+Bönigen,572,5590,FALSE,FALSE,moderate_potential
+Bösingen,2295,0,TRUE,TRUE,high_potential
+Böttstein,4303,22639,FALSE,FALSE,moderate_potential
+Bözberg,4124,12748,FALSE,FALSE,moderate_potential
+Böztal,4185,12748,FALSE,FALSE,moderate_potential
+Büetigen,382,9014,FALSE,FALSE,moderate_potential
+Bühl,734,2500,FALSE,TRUE,good_potential
+Bühler,3021,0,TRUE,TRUE,high_potential
+Bülach,53,13463,FALSE,FALSE,moderate_potential
+Bünzen,4229,5000,FALSE,FALSE,moderate_potential
+Bürchen,6193,0,TRUE,TRUE,high_potential
+Büren (SO),2472,2500,FALSE,TRUE,good_potential
+Büren an der Aare,383,5590,FALSE,FALSE,moderate_potential
+Bürglen (TG),4911,3536,FALSE,FALSE,moderate_potential
+Bürglen (UR),1205,0,TRUE,TRUE,high_potential
+Büron,1082,2500,FALSE,TRUE,good_potential
+Büsingen am Hochrhein,7101,5000,FALSE,FALSE,moderate_potential
+Büsserach,2614,3536,FALSE,FALSE,moderate_potential
+Bütschwil-Ganterschwil,3395,0,TRUE,TRUE,high_potential
+Büttenhardt,2914,10308,FALSE,FALSE,moderate_potential
+Büttikon,4064,2500,FALSE,TRUE,good_potential
+Cademario,5161,10607,FALSE,FALSE,moderate_potential
+Cadempino,5162,9014,FALSE,FALSE,moderate_potential
+Cadenazzo,5003,5590,FALSE,FALSE,moderate_potential
+Calanca,3837,10000,FALSE,FALSE,moderate_potential
+Cama,3831,9014,FALSE,FALSE,moderate_potential
+Campione d'Italia,7301,12500,FALSE,FALSE,moderate_potential
+Campo (Vallemaggia),5307,23585,FALSE,FALSE,moderate_potential
+Canobbio,5167,5590,FALSE,FALSE,moderate_potential
+Capriasca,5226,0,TRUE,TRUE,high_potential
+Carouge (GE),6608,2500,FALSE,TRUE,good_potential
+Cartigny,6609,2500,FALSE,TRUE,good_potential
+Caslano,5171,14577,FALSE,FALSE,moderate_potential
+Castaneda,3805,5590,FALSE,FALSE,moderate_potential
+Castel San Pietro,5249,22500,FALSE,FALSE,moderate_potential
+Cazis,3661,0,TRUE,TRUE,high_potential
+Celerina/Schlarigna,3782,18200,FALSE,FALSE,moderate_potential
+Centovalli,5397,23717,FALSE,FALSE,moderate_potential
+Cerentino,5309,22639,FALSE,FALSE,moderate_potential
+Cevio,5310,9014,FALSE,FALSE,moderate_potential
+Chalais,6232,14142,FALSE,FALSE,moderate_potential
+Cham,1702,5590,FALSE,FALSE,moderate_potential
+Chamblon,5904,2500,FALSE,TRUE,good_potential
+Chamoson,6022,7500,FALSE,FALSE,moderate_potential
+Champagne,5553,2500,FALSE,TRUE,good_potential
+Champoz,683,2500,FALSE,TRUE,good_potential
+Champtauroz,5812,5000,FALSE,FALSE,moderate_potential
+Champvent,5905,3536,FALSE,FALSE,moderate_potential
+Champéry,6151,2500,FALSE,TRUE,good_potential
+Chancy,6611,0,TRUE,TRUE,high_potential
+Chardonne,5882,0,TRUE,TRUE,high_potential
+Chavannes-de-Bogis,5707,11180,FALSE,FALSE,moderate_potential
+Chavannes-des-Bois,5708,10607,FALSE,FALSE,moderate_potential
+Chavannes-le-Chêne,5907,5590,FALSE,FALSE,moderate_potential
+Chavannes-le-Veyron,5475,0,TRUE,TRUE,high_potential
+Chavannes-près-Renens,5627,3536,FALSE,FALSE,moderate_potential
+Chavannes-sur-Moudon,5665,0,TRUE,TRUE,high_potential
+Chavornay,5749,0,TRUE,TRUE,high_potential
+Cheseaux-Noréaz,5909,0,TRUE,TRUE,high_potential
+Cheseaux-sur-Lausanne,5582,0,TRUE,TRUE,high_potential
+Chessel,5403,7500,FALSE,FALSE,moderate_potential
+Chevilly,5476,0,TRUE,TRUE,high_potential
+Chevroux,5813,10000,FALSE,FALSE,moderate_potential
+Chexbres,5601,0,TRUE,TRUE,high_potential
+Cheyres-Châbles,2055,7071,FALSE,FALSE,moderate_potential
+Chiasso,5250,30000,FALSE,FALSE,moderate_potential
+Chigny,5628,2500,FALSE,TRUE,good_potential
+Chippis,6235,15000,FALSE,FALSE,moderate_potential
+Choulex,6614,0,TRUE,TRUE,high_potential
+Chur,3901,0,TRUE,TRUE,high_potential
+Churwalden,3911,0,TRUE,TRUE,high_potential
+Château-d'Oex,5841,2500,FALSE,TRUE,good_potential
+Châtel-Saint-Denis,2325,0,TRUE,TRUE,high_potential
+Châtel-sur-Montsalvens,2128,2500,FALSE,TRUE,good_potential
+Châtillon (FR),2008,10607,FALSE,FALSE,moderate_potential
+Châtillon (JU),6704,2500,FALSE,TRUE,good_potential
+Châtonnaye,2068,2500,FALSE,TRUE,good_potential
+Chénens,2177,0,TRUE,TRUE,high_potential
+Chéserex,5709,10607,FALSE,FALSE,moderate_potential
+Chêne-Bougeries,6612,5590,FALSE,FALSE,moderate_potential
+Chêne-Bourg,6613,2500,FALSE,TRUE,good_potential
+Chêne-Pâquier,5908,2500,FALSE,TRUE,good_potential
+Clarmont,5629,0,TRUE,TRUE,high_potential
+Clos du Doubs,6808,0,TRUE,TRUE,high_potential
+Coeuve,6781,10000,FALSE,FALSE,moderate_potential
+Coinsins,5710,5590,FALSE,FALSE,moderate_potential
+Coldrerio,5251,27500,FALSE,FALSE,moderate_potential
+Collex-Bossy,6615,10607,FALSE,FALSE,moderate_potential
+Collina d'Oro,5236,13463,FALSE,FALSE,moderate_potential
+Collombey-Muraz,6152,0,TRUE,TRUE,high_potential
+Collonge-Bellerive,6616,2500,FALSE,TRUE,good_potential
+Collonges,6211,10607,FALSE,FALSE,moderate_potential
+Cologny,6617,5000,FALSE,FALSE,moderate_potential
+Comano,5176,7906,FALSE,FALSE,moderate_potential
+Commugny,5711,11180,FALSE,FALSE,moderate_potential
+Comunanza Cadenazzo/Monteceneri,5391,5590,FALSE,FALSE,moderate_potential
+Comunanza Capriasca/Lugano,5394,0,TRUE,TRUE,high_potential
+Concise,5554,0,TRUE,TRUE,high_potential
+Confignon,6618,2500,FALSE,TRUE,good_potential
+Conters im Prättigau,3881,2500,FALSE,TRUE,good_potential
+Conthey,6023,7906,FALSE,FALSE,moderate_potential
+Coppet,5712,7906,FALSE,FALSE,moderate_potential
+Corbeyrier,5404,7071,FALSE,FALSE,moderate_potential
+Corbières,2129,2500,FALSE,TRUE,good_potential
+Corcelles (BE),687,0,TRUE,TRUE,high_potential
+Corcelles-le-Jorat,5785,0,TRUE,TRUE,high_potential
+Corcelles-près-Concise,5555,5590,FALSE,FALSE,moderate_potential
+Corcelles-près-Payerne,5816,10000,FALSE,FALSE,moderate_potential
+Corgémont,431,0,TRUE,TRUE,high_potential
+Corminboeuf,2183,10308,FALSE,FALSE,moderate_potential
+Cormoret,432,2500,FALSE,TRUE,good_potential
+Cornaux,6451,2500,FALSE,TRUE,good_potential
+Cornol,6782,3536,FALSE,FALSE,moderate_potential
+Corseaux,5883,2500,FALSE,TRUE,good_potential
+Corsier (GE),6619,2500,FALSE,TRUE,good_potential
+Corsier-sur-Vevey,5884,0,TRUE,TRUE,high_potential
+Cortaillod,6408,5590,FALSE,FALSE,moderate_potential
+Cortébert,433,2500,FALSE,TRUE,good_potential
+Cossonay,5477,2500,FALSE,TRUE,good_potential
+Cottens (FR),2186,2500,FALSE,TRUE,good_potential
+Courchapoix,6706,2500,FALSE,TRUE,good_potential
+Courchavon,6783,9014,FALSE,FALSE,moderate_potential
+Courgenay,6784,2500,FALSE,TRUE,good_potential
+Courgevaux,2250,3536,FALSE,FALSE,moderate_potential
+Courrendlin,6708,2500,FALSE,TRUE,good_potential
+Courroux,6709,0,TRUE,TRUE,high_potential
+Court,690,0,TRUE,TRUE,high_potential
+Courtedoux,6785,7071,FALSE,FALSE,moderate_potential
+Courtelary,434,0,TRUE,TRUE,high_potential
+Courtepin,2254,2500,FALSE,TRUE,good_potential
+Courtételle,6710,2500,FALSE,TRUE,good_potential
+Crans (VD),5713,11180,FALSE,FALSE,moderate_potential
+Crans-Montana,6253,9014,FALSE,FALSE,moderate_potential
+Crassier,5714,12500,FALSE,FALSE,moderate_potential
+Cressier (FR),2257,2500,FALSE,TRUE,good_potential
+Cressier (NE),6452,2500,FALSE,TRUE,good_potential
+Crissier,5583,0,TRUE,TRUE,high_potential
+Cronay,5910,0,TRUE,TRUE,high_potential
+Croy,5752,0,TRUE,TRUE,high_potential
+Crémines,691,2500,FALSE,TRUE,good_potential
+Crésuz,2130,2500,FALSE,TRUE,good_potential
+Cuarnens,5479,0,TRUE,TRUE,high_potential
+Cuarny,5911,0,TRUE,TRUE,high_potential
+Cudrefin,5456,5590,FALSE,FALSE,moderate_potential
+Cugnasco-Gerra,5138,11180,FALSE,FALSE,moderate_potential
+Cugy (FR),2011,10308,FALSE,FALSE,moderate_potential
+Cugy (VD),5516,0,TRUE,TRUE,high_potential
+Cureglia,5180,7906,FALSE,FALSE,moderate_potential
+Curtilles,5669,0,TRUE,TRUE,high_potential
+Céligny,6610,12500,FALSE,FALSE,moderate_potential
+Dachsen,25,2500,FALSE,TRUE,good_potential
+Dagmersellen,1125,0,TRUE,TRUE,high_potential
+Daillens,5480,0,TRUE,TRUE,high_potential
+Dallenwil,1503,2500,FALSE,TRUE,good_potential
+Dalpe,5071,16008,FALSE,FALSE,moderate_potential
+Damphreux-Lugnez,6811,12500,FALSE,FALSE,moderate_potential
+Dardagny,6620,0,TRUE,TRUE,high_potential
+Davos,3851,5590,FALSE,FALSE,moderate_potential
+Degersheim,3401,0,TRUE,TRUE,high_potential
+Deisswil bei Münchenbuchsee,535,5590,FALSE,FALSE,moderate_potential
+Deitingen,2516,2500,FALSE,TRUE,good_potential
+Delley-Portalban,2051,5590,FALSE,FALSE,moderate_potential
+Delémont,6711,0,TRUE,TRUE,high_potential
+Denens,5631,2500,FALSE,TRUE,good_potential
+Denges,5632,2500,FALSE,TRUE,good_potential
+Densbüren,4004,14142,FALSE,FALSE,moderate_potential
+Derendingen,2517,5000,FALSE,FALSE,moderate_potential
+Develier,6712,0,TRUE,TRUE,high_potential
+Diegten,2884,2500,FALSE,TRUE,good_potential
+Dielsdorf,86,21506,FALSE,FALSE,moderate_potential
+Diemtigen,762,0,TRUE,TRUE,high_potential
+Diepflingen,2845,0,TRUE,TRUE,high_potential
+Diepoldsau,3234,0,TRUE,TRUE,high_potential
+Dierikon,1053,2500,FALSE,TRUE,good_potential
+Diessbach bei Büren,385,10308,FALSE,FALSE,moderate_potential
+Diessenhofen,4545,2500,FALSE,TRUE,good_potential
+Dietikon,243,14577,FALSE,FALSE,moderate_potential
+Dietlikon,54,10308,FALSE,FALSE,moderate_potential
+Dietwil,4231,3536,FALSE,FALSE,moderate_potential
+Dinhard,216,2500,FALSE,TRUE,good_potential
+Dintikon,4194,0,TRUE,TRUE,high_potential
+Disentis/Mustér,3982,0,TRUE,TRUE,high_potential
+Dittingen,2784,2500,FALSE,TRUE,good_potential
+Dizy,5481,0,TRUE,TRUE,high_potential
+Domat/Ems,3722,0,TRUE,TRUE,high_potential
+Domleschg,3673,0,TRUE,TRUE,high_potential
+Dompierre (VD),5671,0,TRUE,TRUE,high_potential
+Donneloye,5913,0,TRUE,TRUE,high_potential
+Doppleschwand,1001,3536,FALSE,FALSE,moderate_potential
+Dorf,26,5590,FALSE,FALSE,moderate_potential
+Dornach,2473,2500,FALSE,TRUE,good_potential
+Dorénaz,6212,7071,FALSE,FALSE,moderate_potential
+Dottikon,4065,3536,FALSE,FALSE,moderate_potential
+Dotzigen,386,7071,FALSE,FALSE,moderate_potential
+Dozwil,4406,0,TRUE,TRUE,high_potential
+Drei Höfe,2535,5000,FALSE,FALSE,moderate_potential
+Duggingen,2785,2500,FALSE,TRUE,good_potential
+Duillier,5715,5590,FALSE,FALSE,moderate_potential
+Dulliken,2573,7906,FALSE,FALSE,moderate_potential
+Dully,5855,5590,FALSE,FALSE,moderate_potential
+Dägerlen,214,0,TRUE,TRUE,high_potential
+Dällikon,84,19040,FALSE,FALSE,moderate_potential
+Däniken,2572,7500,FALSE,FALSE,moderate_potential
+Dänikon,85,16771,FALSE,FALSE,moderate_potential
+Därligen,575,3536,FALSE,FALSE,moderate_potential
+Därstetten,761,2500,FALSE,TRUE,good_potential
+Dättlikon,215,9014,FALSE,FALSE,moderate_potential
+Démoret,5912,3536,FALSE,FALSE,moderate_potential
+Dörflingen,2915,5000,FALSE,FALSE,moderate_potential
+Döttingen,4304,20156,FALSE,FALSE,moderate_potential
+Dübendorf,191,7906,FALSE,FALSE,moderate_potential
+Düdingen,2293,2500,FALSE,TRUE,good_potential
+Dürnten,113,2500,FALSE,TRUE,good_potential
+Dürrenroth,952,0,TRUE,TRUE,high_potential
+Dürrenäsch,4134,2500,FALSE,TRUE,good_potential
+Ebikon,1054,5000,FALSE,FALSE,moderate_potential
+Ebnat-Kappel,3352,0,TRUE,TRUE,high_potential
+Echallens,5518,0,TRUE,TRUE,high_potential
+Echandens,5633,2500,FALSE,TRUE,good_potential
+Echarlens,2131,3536,FALSE,FALSE,moderate_potential
+Echichens,5634,0,TRUE,TRUE,high_potential
+Eclépens,5482,0,TRUE,TRUE,high_potential
+Ecublens (VD),5635,3536,FALSE,FALSE,moderate_potential
+Ederswiler,6713,0,TRUE,TRUE,high_potential
+Egerkingen,2401,0,TRUE,TRUE,high_potential
+Egg,192,2500,FALSE,TRUE,good_potential
+Eggenwil,4066,9014,FALSE,FALSE,moderate_potential
+Eggerberg,6004,3536,FALSE,FALSE,moderate_potential
+Eggersriet,3212,2500,FALSE,TRUE,good_potential
+Eggiwil,901,0,TRUE,TRUE,high_potential
+Eglisau,55,12748,FALSE,FALSE,moderate_potential
+Egliswil,4195,0,TRUE,TRUE,high_potential
+Egnach,4411,2500,FALSE,TRUE,good_potential
+Egolzwil,1127,0,TRUE,TRUE,high_potential
+Ehrendingen,4049,18028,FALSE,FALSE,moderate_potential
+Eich,1084,2500,FALSE,TRUE,good_potential
+Eichberg,3252,2500,FALSE,TRUE,good_potential
+Eiken,4161,7500,FALSE,FALSE,moderate_potential
+Einsiedeln,1301,0,TRUE,TRUE,high_potential
+Eischoll,6194,0,TRUE,TRUE,high_potential
+Eisten,6282,5590,FALSE,FALSE,moderate_potential
+Elgg,294,2500,FALSE,TRUE,good_potential
+Ellikon an der Thur,218,5000,FALSE,FALSE,moderate_potential
+Elsau,219,3536,FALSE,FALSE,moderate_potential
+Embd,6283,2500,FALSE,TRUE,good_potential
+Embrach,56,12500,FALSE,FALSE,moderate_potential
+Emmen,1024,5000,FALSE,FALSE,moderate_potential
+Emmetten,1504,7500,FALSE,FALSE,moderate_potential
+Endingen,4305,18200,FALSE,FALSE,moderate_potential
+Engelberg,1402,5590,FALSE,FALSE,moderate_potential
+Ennetbaden,4026,16008,FALSE,FALSE,moderate_potential
+Ennetbürgen,1505,7906,FALSE,FALSE,moderate_potential
+Ennetmoos,1506,5000,FALSE,FALSE,moderate_potential
+Entlebuch,1002,0,TRUE,TRUE,high_potential
+Epalinges,5584,2500,FALSE,TRUE,good_potential
+Ependes (VD),5914,0,TRUE,TRUE,high_potential
+Eppenberg-Wöschnau,2574,10000,FALSE,FALSE,moderate_potential
+Epsach,735,0,TRUE,TRUE,high_potential
+Eptingen,2885,2500,FALSE,TRUE,good_potential
+Ergisch,6104,2500,FALSE,TRUE,good_potential
+Eriswil,953,0,TRUE,TRUE,high_potential
+Eriz,924,0,TRUE,TRUE,high_potential
+Erlach,492,0,TRUE,TRUE,high_potential
+Erlen,4476,5000,FALSE,FALSE,moderate_potential
+Erlenbach (ZH),151,5000,FALSE,FALSE,moderate_potential
+Erlenbach im Simmental,763,0,TRUE,TRUE,high_potential
+Erlinsbach (AG),4005,12748,FALSE,FALSE,moderate_potential
+Erlinsbach (SO),2503,10308,FALSE,FALSE,moderate_potential
+Ermatingen,4646,2500,FALSE,TRUE,good_potential
+Ermensee,1025,0,TRUE,TRUE,high_potential
+Ernen,6056,0,TRUE,TRUE,high_potential
+Erschwil,2615,2500,FALSE,TRUE,good_potential
+Ersigen,405,3536,FALSE,FALSE,moderate_potential
+Erstfeld,1206,7906,FALSE,FALSE,moderate_potential
+Eschen,7007,12748,FALSE,FALSE,moderate_potential
+Eschenbach (LU),1026,3536,FALSE,FALSE,moderate_potential
+Eschenbach (SG),3342,0,TRUE,TRUE,high_potential
+Eschenz,4806,7906,FALSE,FALSE,moderate_potential
+Eschert,692,3536,FALSE,FALSE,moderate_potential
+Eschlikon,4724,3536,FALSE,FALSE,moderate_potential
+Escholzmatt-Marbach,1010,0,TRUE,TRUE,high_potential
+Essertines-sur-Rolle,5856,0,TRUE,TRUE,high_potential
+Essertines-sur-Yverdon,5520,2500,FALSE,TRUE,good_potential
+Estavayer,2054,7500,FALSE,FALSE,moderate_potential
+Etagnières,5521,0,TRUE,TRUE,high_potential
+Etoy,5636,5000,FALSE,FALSE,moderate_potential
+Ettingen,2768,2500,FALSE,TRUE,good_potential
+Ettiswil,1128,2500,FALSE,TRUE,good_potential
+Etziken,2518,3536,FALSE,FALSE,moderate_potential
+Evilard,372,2500,FALSE,TRUE,good_potential
+Evionnaz,6213,7071,FALSE,FALSE,moderate_potential
+Evolène,6083,7071,FALSE,FALSE,moderate_potential
+Eysins,5716,11180,FALSE,FALSE,moderate_potential
+Fahrni,925,2500,FALSE,TRUE,good_potential
+Fahrwangen,4196,2500,FALSE,TRUE,good_potential
+Fahy,6789,5000,FALSE,FALSE,moderate_potential
+Faido,5072,13463,FALSE,FALSE,moderate_potential
+Falera,3572,0,TRUE,TRUE,high_potential
+Faoug,5458,5590,FALSE,FALSE,moderate_potential
+Farnern,975,0,TRUE,TRUE,high_potential
+Fehraltorf,172,2500,FALSE,TRUE,good_potential
+Fehren,2616,3536,FALSE,FALSE,moderate_potential
+Felben-Wellhausen,4561,2500,FALSE,TRUE,good_potential
+Feldbrunnen-St. Niklaus,2544,5590,FALSE,FALSE,moderate_potential
+Felsberg,3731,5000,FALSE,FALSE,moderate_potential
+Ferden,6195,10308,FALSE,FALSE,moderate_potential
+Ferenbalm,662,0,TRUE,TRUE,high_potential
+Ferpicloz,2194,2500,FALSE,TRUE,good_potential
+Ferrera,3713,2500,FALSE,TRUE,good_potential
+Ferreyres,5483,0,TRUE,TRUE,high_potential
+Feuerthalen,27,2500,FALSE,TRUE,good_potential
+Feusisberg,1321,0,TRUE,TRUE,high_potential
+Fey,5522,0,TRUE,TRUE,high_potential
+Fideris,3861,0,TRUE,TRUE,high_potential
+Fiesch,6057,2500,FALSE,TRUE,good_potential
+Fieschertal,6058,5000,FALSE,FALSE,moderate_potential
+Fiez,5556,0,TRUE,TRUE,high_potential
+Finhaut,6214,10000,FALSE,FALSE,moderate_potential
+Finsterhennen,493,0,TRUE,TRUE,high_potential
+Fischbach,1129,0,TRUE,TRUE,high_potential
+Fischbach-Göslikon,4067,7071,FALSE,FALSE,moderate_potential
+Fischenthal,114,0,TRUE,TRUE,high_potential
+Fischingen,4726,2500,FALSE,TRUE,good_potential
+Fisibach,4306,22361,FALSE,FALSE,moderate_potential
+Fislisbach,4027,10607,FALSE,FALSE,moderate_potential
+Flaach,28,5000,FALSE,FALSE,moderate_potential
+Flawil,3402,2500,FALSE,TRUE,good_potential
+Flerden,3662,0,TRUE,TRUE,high_potential
+Flims,3732,3536,FALSE,FALSE,moderate_potential
+Flumenthal,2545,5000,FALSE,FALSE,moderate_potential
+Flums,3292,0,TRUE,TRUE,high_potential
+Flurlingen,29,3536,FALSE,FALSE,moderate_potential
+Fläsch,3951,0,TRUE,TRUE,high_potential
+Flüelen,1207,2500,FALSE,TRUE,good_potential
+Flühli,1004,3536,FALSE,FALSE,moderate_potential
+Fontaines-sur-Grandson,5557,0,TRUE,TRUE,high_potential
+Fontenais,6790,2500,FALSE,TRUE,good_potential
+Forel (Lavaux),5604,0,TRUE,TRUE,high_potential
+Forst-Längenbühl,948,9014,FALSE,FALSE,moderate_potential
+Founex,5717,10308,FALSE,FALSE,moderate_potential
+Fraubrunnen,538,5590,FALSE,FALSE,moderate_potential
+Frauenfeld,4566,0,TRUE,TRUE,high_potential
+Frauenkappelen,663,0,TRUE,TRUE,high_potential
+Freienbach,1322,0,TRUE,TRUE,high_potential
+Freienstein-Teufen,57,10607,FALSE,FALSE,moderate_potential
+Freienwil,4028,16771,FALSE,FALSE,moderate_potential
+Freimettigen,607,0,TRUE,TRUE,high_potential
+Frenkendorf,2824,5590,FALSE,FALSE,moderate_potential
+Fribourg,2196,7906,FALSE,FALSE,moderate_potential
+Frick,4163,7500,FALSE,FALSE,moderate_potential
+Froideville,5523,0,TRUE,TRUE,high_potential
+Frutigen,563,5590,FALSE,FALSE,moderate_potential
+Fräschels,2258,0,TRUE,TRUE,high_potential
+Fulenbach,2575,2500,FALSE,TRUE,good_potential
+Full-Reuenthal,4307,26926,FALSE,FALSE,moderate_potential
+Fully,6133,3536,FALSE,FALSE,moderate_potential
+Furna,3862,0,TRUE,TRUE,high_potential
+Fällanden,193,5590,FALSE,FALSE,moderate_potential
+Féchy,5427,2500,FALSE,TRUE,good_potential
+Fétigny-Ménières,2056,7906,FALSE,FALSE,moderate_potential
+Füllinsdorf,2825,3536,FALSE,FALSE,moderate_potential
+Fürstenau,3633,0,TRUE,TRUE,high_potential
+Gachnang,4571,2500,FALSE,TRUE,good_potential
+Gais,3022,0,TRUE,TRUE,high_potential
+Gaiserwald,3442,0,TRUE,TRUE,high_potential
+Galgenen,1342,0,TRUE,TRUE,high_potential
+Gals,494,0,TRUE,TRUE,high_potential
+Gambarogno,5398,7071,FALSE,FALSE,moderate_potential
+Gampel-Bratsch,6118,3536,FALSE,FALSE,moderate_potential
+Gampelen,495,0,TRUE,TRUE,high_potential
+Gamprin,7009,15000,FALSE,FALSE,moderate_potential
+Gams,3272,10308,FALSE,FALSE,moderate_potential
+Gansingen,4164,18200,FALSE,FALSE,moderate_potential
+Gebenstorf,4029,12748,FALSE,FALSE,moderate_potential
+Gelterkinden,2846,3536,FALSE,FALSE,moderate_potential
+Geltwil,4232,2500,FALSE,TRUE,good_potential
+Gempen,2474,3536,FALSE,FALSE,moderate_potential
+Genolier,5718,5590,FALSE,FALSE,moderate_potential
+Genthod,6622,5590,FALSE,FALSE,moderate_potential
+Genève,6621,5590,FALSE,FALSE,moderate_potential
+Gerlafingen,2519,9014,FALSE,FALSE,moderate_potential
+Geroldswil,244,15811,FALSE,FALSE,moderate_potential
+Gersau,1311,10000,FALSE,FALSE,moderate_potential
+Gerzensee,866,0,TRUE,TRUE,high_potential
+Geuensee,1085,0,TRUE,TRUE,high_potential
+Gibloux,2236,0,TRUE,TRUE,high_potential
+Giebenach,2826,3536,FALSE,FALSE,moderate_potential
+Giez,5559,0,TRUE,TRUE,high_potential
+Giffers,2294,5000,FALSE,FALSE,moderate_potential
+Gilly,5857,2500,FALSE,TRUE,good_potential
+Gimel,5428,2500,FALSE,TRUE,good_potential
+Gingins,5719,9014,FALSE,FALSE,moderate_potential
+Giornico,5073,24749,FALSE,FALSE,moderate_potential
+Gipf-Oberfrick,4165,10308,FALSE,FALSE,moderate_potential
+Gisikon,1055,0,TRUE,TRUE,high_potential
+Giswil,1403,0,TRUE,TRUE,high_potential
+Givisiez,2197,7071,FALSE,FALSE,moderate_potential
+Givrins,5720,5590,FALSE,FALSE,moderate_potential
+Gland,5721,5000,FALSE,FALSE,moderate_potential
+Glarus,1632,7071,FALSE,FALSE,moderate_potential
+Glarus Nord,1630,5000,FALSE,FALSE,moderate_potential
+Glarus Süd,1631,0,TRUE,TRUE,high_potential
+Glattfelden,58,15207,FALSE,FALSE,moderate_potential
+Gletterens,2022,7906,FALSE,FALSE,moderate_potential
+Goldach,3213,3536,FALSE,FALSE,moderate_potential
+Gollion,5484,0,TRUE,TRUE,high_potential
+Gommiswald,3341,0,TRUE,TRUE,high_potential
+Goms,6077,3536,FALSE,FALSE,moderate_potential
+Gondiswil,326,2500,FALSE,TRUE,good_potential
+Gonten,3102,0,TRUE,TRUE,high_potential
+Gontenschwil,4135,0,TRUE,TRUE,high_potential
+Gordola,5108,12500,FALSE,FALSE,moderate_potential
+Gossau (SG),3443,2500,FALSE,TRUE,good_potential
+Gossau (ZH),115,5590,FALSE,FALSE,moderate_potential
+Gottlieben,4651,3536,FALSE,FALSE,moderate_potential
+Goumoëns,5541,0,TRUE,TRUE,high_potential
+Graben,976,0,TRUE,TRUE,high_potential
+Grabs,3273,5590,FALSE,FALSE,moderate_potential
+Grancia,5186,15811,FALSE,FALSE,moderate_potential
+Grancy,5485,0,TRUE,TRUE,high_potential
+Grandcour,5817,12748,FALSE,FALSE,moderate_potential
+Grandevent,5560,2500,FALSE,TRUE,good_potential
+Grandfontaine,6792,2500,FALSE,TRUE,good_potential
+Grandson,5561,2500,FALSE,TRUE,good_potential
+Grandval,694,0,TRUE,TRUE,high_potential
+Grandvillard,2134,3536,FALSE,FALSE,moderate_potential
+Granges (Veveyse),2328,0,TRUE,TRUE,high_potential
+Granges-Paccot,2198,7071,FALSE,FALSE,moderate_potential
+Grangettes,2079,0,TRUE,TRUE,high_potential
+Gravesano,5187,9014,FALSE,FALSE,moderate_potential
+Greifensee,9040,5000,FALSE,FALSE,moderate_potential
+Greifensee,194,3536,FALSE,FALSE,moderate_potential
+Grellingen,2786,2500,FALSE,TRUE,good_potential
+Grenchen,2546,0,TRUE,TRUE,high_potential
+Greng,2261,5000,FALSE,FALSE,moderate_potential
+Grengiols,6177,2500,FALSE,TRUE,good_potential
+Grens,5722,9014,FALSE,FALSE,moderate_potential
+Greppen,1056,3536,FALSE,FALSE,moderate_potential
+Gretzenbach,2576,7906,FALSE,FALSE,moderate_potential
+Grimisuat,6263,10000,FALSE,FALSE,moderate_potential
+Grindel,2617,0,TRUE,TRUE,high_potential
+Grindelwald,576,0,TRUE,TRUE,high_potential
+Grolley-Ponthaux,2239,9014,FALSE,FALSE,moderate_potential
+Grono,3832,5590,FALSE,FALSE,moderate_potential
+Grossaffoltern,303,5000,FALSE,FALSE,moderate_potential
+Grossdietwil,1131,0,TRUE,TRUE,high_potential
+Grosshöchstetten,608,2500,FALSE,TRUE,good_potential
+Grosswangen,1086,0,TRUE,TRUE,high_potential
+Grub (AR),3031,0,TRUE,TRUE,high_potential
+Gruyères,2135,0,TRUE,TRUE,high_potential
+Gryon,5405,2500,FALSE,TRUE,good_potential
+Grächen,6285,5000,FALSE,FALSE,moderate_potential
+Gränichen,4006,7500,FALSE,FALSE,moderate_potential
+Grône,6238,11180,FALSE,FALSE,moderate_potential
+Grüningen,116,7906,FALSE,FALSE,moderate_potential
+Grüsch,3961,0,TRUE,TRUE,high_potential
+Gsteig,841,2500,FALSE,TRUE,good_potential
+Gsteigwiler,577,5590,FALSE,FALSE,moderate_potential
+Guggisberg,852,0,TRUE,TRUE,high_potential
+Gunzgen,2578,3536,FALSE,FALSE,moderate_potential
+Gurbrü,665,2500,FALSE,TRUE,good_potential
+Gurmels,2262,2500,FALSE,TRUE,good_potential
+Gurtnellen,1209,10000,FALSE,FALSE,moderate_potential
+Gurzelen,867,7500,FALSE,FALSE,moderate_potential
+Guttannen,782,2500,FALSE,TRUE,good_potential
+Guttet-Feschel,6117,9014,FALSE,FALSE,moderate_potential
+Gy,6624,0,TRUE,TRUE,high_potential
+Gächlingen,2901,13463,FALSE,FALSE,moderate_potential
+Göschenen,1208,9014,FALSE,FALSE,moderate_potential
+Gündlischwand,578,3536,FALSE,FALSE,moderate_potential
+Günsberg,2547,3536,FALSE,FALSE,moderate_potential
+Güttingen,4656,3536,FALSE,FALSE,moderate_potential
+Habkern,579,5590,FALSE,FALSE,moderate_potential
+Habsburg,4099,10000,FALSE,FALSE,moderate_potential
+Hagenbuch,220,0,TRUE,TRUE,high_potential
+Hagneck,736,0,TRUE,TRUE,high_potential
+Hallau,2971,18200,FALSE,FALSE,moderate_potential
+Hallwil,4197,2500,FALSE,TRUE,good_potential
+Hasle (LU),1005,5000,FALSE,FALSE,moderate_potential
+Hasle bei Burgdorf,406,0,TRUE,TRUE,high_potential
+Hasliberg,783,0,TRUE,TRUE,high_potential
+Hauenstein-Ifenthal,2491,3536,FALSE,FALSE,moderate_potential
+Hauptwil-Gottshaus,4486,2500,FALSE,TRUE,good_potential
+Hausen (AG),4100,10000,FALSE,FALSE,moderate_potential
+Hausen am Albis,4,7906,FALSE,FALSE,moderate_potential
+Haut-Intyamon,2121,2500,FALSE,TRUE,good_potential
+Haute-Ajoie,6809,0,TRUE,TRUE,high_potential
+Haute-Sorne,6729,0,TRUE,TRUE,high_potential
+Hautemorges,5656,0,TRUE,TRUE,high_potential
+Hauterive (FR),2233,7071,FALSE,FALSE,moderate_potential
+Hauteville,2137,0,TRUE,TRUE,high_potential
+Hedingen,5,12500,FALSE,FALSE,moderate_potential
+Hefenhofen,4416,3536,FALSE,FALSE,moderate_potential
+Heiden,3032,2500,FALSE,TRUE,good_potential
+Heiligenschwendi,927,0,TRUE,TRUE,high_potential
+Heimberg,928,3536,FALSE,FALSE,moderate_potential
+Heimenhausen,977,2500,FALSE,TRUE,good_potential
+Heimiswil,407,0,TRUE,TRUE,high_potential
+Heitenried,2296,0,TRUE,TRUE,high_potential
+Hellikon,4251,3536,FALSE,FALSE,moderate_potential
+Hellsau,408,2500,FALSE,TRUE,good_potential
+Hemishofen,2962,7906,FALSE,FALSE,moderate_potential
+Hemmiken,2848,2500,FALSE,TRUE,good_potential
+Hendschiken,4198,2500,FALSE,TRUE,good_potential
+Henggart,31,2500,FALSE,TRUE,good_potential
+Henniez,5819,3536,FALSE,FALSE,moderate_potential
+Herbetswil,2424,2500,FALSE,TRUE,good_potential
+Herbligen,610,2500,FALSE,TRUE,good_potential
+Herdern,4811,3536,FALSE,FALSE,moderate_potential
+Hergiswil (NW),1507,9014,FALSE,FALSE,moderate_potential
+Hergiswil bei Willisau,1132,0,TRUE,TRUE,high_potential
+Herisau,3001,0,TRUE,TRUE,high_potential
+Hermance,6625,5000,FALSE,FALSE,moderate_potential
+Hermenches,5673,0,TRUE,TRUE,high_potential
+Hermrigen,737,3536,FALSE,FALSE,moderate_potential
+Herrliberg,152,2500,FALSE,TRUE,good_potential
+Hersberg,2827,0,TRUE,TRUE,high_potential
+Herznach-Ueken,4186,13463,FALSE,FALSE,moderate_potential
+Herzogenbuchsee,979,2500,FALSE,TRUE,good_potential
+Hettlingen,221,3536,FALSE,FALSE,moderate_potential
+Hildisrieden,1088,2500,FALSE,TRUE,good_potential
+Hilterfingen,929,2500,FALSE,TRUE,good_potential
+Himmelried,2618,0,TRUE,TRUE,high_potential
+Hindelbank,409,2500,FALSE,TRUE,good_potential
+Hinwil,117,0,TRUE,TRUE,high_potential
+Hirschthal,4007,2500,FALSE,TRUE,good_potential
+Hittnau,173,0,TRUE,TRUE,high_potential
+Hitzkirch,1030,2500,FALSE,TRUE,good_potential
+Hochdorf,1031,2500,FALSE,TRUE,good_potential
+Hochfelden,59,16771,FALSE,FALSE,moderate_potential
+Hochwald,2475,5000,FALSE,FALSE,moderate_potential
+Hofstetten bei Brienz,580,0,TRUE,TRUE,high_potential
+Hofstetten-Flüh,2476,0,TRUE,TRUE,high_potential
+Hohenrain,1032,0,TRUE,TRUE,high_potential
+Hohentannen,4495,7071,FALSE,FALSE,moderate_potential
+Holderbank (AG),4199,7906,FALSE,FALSE,moderate_potential
+Holderbank (SO),2425,2500,FALSE,TRUE,good_potential
+Holziken,4136,5000,FALSE,FALSE,moderate_potential
+Homberg,931,0,TRUE,TRUE,high_potential
+Hombrechtikon,153,7500,FALSE,FALSE,moderate_potential
+Homburg,4816,0,TRUE,TRUE,high_potential
+Horgen,295,7071,FALSE,FALSE,moderate_potential
+Horn,4421,5590,FALSE,FALSE,moderate_potential
+Horrenbach-Buchen,932,0,TRUE,TRUE,high_potential
+Horriwil,2523,3536,FALSE,FALSE,moderate_potential
+Horw,1058,7071,FALSE,FALSE,moderate_potential
+Hospental,1210,2500,FALSE,TRUE,good_potential
+Hubersdorf,2548,2500,FALSE,TRUE,good_potential
+Hundwil,3002,0,TRUE,TRUE,high_potential
+Hunzenschwil,4200,5000,FALSE,FALSE,moderate_potential
+Huttwil,954,0,TRUE,TRUE,high_potential
+Häfelfingen,2847,3536,FALSE,FALSE,moderate_potential
+Hägendorf,2579,0,TRUE,TRUE,high_potential
+Häggenschwil,3201,0,TRUE,TRUE,high_potential
+Hägglingen,4068,5590,FALSE,FALSE,moderate_potential
+Härkingen,2402,0,TRUE,TRUE,high_potential
+Häutligen,609,0,TRUE,TRUE,high_potential
+Hérémence,6084,0,TRUE,TRUE,high_potential
+Höchstetten,410,3536,FALSE,FALSE,moderate_potential
+Hölstein,2886,0,TRUE,TRUE,high_potential
+Höri,60,18028,FALSE,FALSE,moderate_potential
+Hünenberg,1703,5000,FALSE,FALSE,moderate_potential
+Hüniken,2524,3536,FALSE,FALSE,moderate_potential
+Hüntwangen,61,14577,FALSE,FALSE,moderate_potential
+Hüttikon,87,14577,FALSE,FALSE,moderate_potential
+Hüttlingen,4590,0,TRUE,TRUE,high_potential
+Hüttwilen,4821,7071,FALSE,FALSE,moderate_potential
+Icogne,6239,5590,FALSE,FALSE,moderate_potential
+Iffwil,541,7071,FALSE,FALSE,moderate_potential
+Ilanz/Glion,3619,0,TRUE,TRUE,high_potential
+Illgau,1363,0,TRUE,TRUE,high_potential
+Illnau-Effretikon,296,3536,FALSE,FALSE,moderate_potential
+Inden,6109,12500,FALSE,FALSE,moderate_potential
+Ingenbohl,1364,3536,FALSE,FALSE,moderate_potential
+Inkwil,980,0,TRUE,TRUE,high_potential
+Innerthal,1343,2500,FALSE,TRUE,good_potential
+Innertkirchen,784,7071,FALSE,FALSE,moderate_potential
+Ins,496,0,TRUE,TRUE,high_potential
+Interlaken,581,7500,FALSE,FALSE,moderate_potential
+Inwil,1033,3536,FALSE,FALSE,moderate_potential
+Ipsach,739,5000,FALSE,FALSE,moderate_potential
+Iseltwald,582,7500,FALSE,FALSE,moderate_potential
+Isenthal,1211,7071,FALSE,FALSE,moderate_potential
+Islisberg,4084,14577,FALSE,FALSE,moderate_potential
+Isone,5009,2500,FALSE,TRUE,good_potential
+Isérables,6134,2500,FALSE,TRUE,good_potential
+Itingen,2849,0,TRUE,TRUE,high_potential
+Ittigen,362,2500,FALSE,TRUE,good_potential
+Jaberg,868,3536,FALSE,FALSE,moderate_potential
+Jaun,2138,3536,FALSE,FALSE,moderate_potential
+Jegenstorf,540,5590,FALSE,FALSE,moderate_potential
+Jenaz,3863,2500,FALSE,TRUE,good_potential
+Jenins,3952,0,TRUE,TRUE,high_potential
+Jens,738,7071,FALSE,FALSE,moderate_potential
+Jonen,4071,11180,FALSE,FALSE,moderate_potential
+Jongny,5885,2500,FALSE,TRUE,good_potential
+Jonschwil,3405,2500,FALSE,TRUE,good_potential
+Jorat-Menthue,5804,0,TRUE,TRUE,high_potential
+Jorat-Mézières,5806,2500,FALSE,TRUE,good_potential
+Jouxtens-Mézery,5585,2500,FALSE,TRUE,good_potential
+Juriens,5754,0,TRUE,TRUE,high_potential
+Jussy,6626,0,TRUE,TRUE,high_potential
+Kaiseraugst,4252,5590,FALSE,FALSE,moderate_potential
+Kaisten,4169,12500,FALSE,FALSE,moderate_potential
+Kallern,4233,2500,FALSE,TRUE,good_potential
+Kallnach,304,0,TRUE,TRUE,high_potential
+Kaltbrunn,3313,2500,FALSE,TRUE,good_potential
+Kammersrohr,2549,2500,FALSE,TRUE,good_potential
+Kandergrund,564,7071,FALSE,FALSE,moderate_potential
+Kandersteg,565,7500,FALSE,FALSE,moderate_potential
+Kappel (SO),2580,2500,FALSE,TRUE,good_potential
+Kappel am Albis,6,7500,FALSE,FALSE,moderate_potential
+Kappelen,305,5590,FALSE,FALSE,moderate_potential
+Kaufdorf,869,0,TRUE,TRUE,high_potential
+Kehrsatz,870,3536,FALSE,FALSE,moderate_potential
+Kemmental,4666,2500,FALSE,TRUE,good_potential
+Kernenried,411,3536,FALSE,FALSE,moderate_potential
+Kerns,1404,0,TRUE,TRUE,high_potential
+Kerzers,2265,0,TRUE,TRUE,high_potential
+Kesswil,4426,2500,FALSE,TRUE,good_potential
+Kestenholz,2403,2500,FALSE,TRUE,good_potential
+Kienberg,2492,10000,FALSE,FALSE,moderate_potential
+Kiesen,611,5000,FALSE,FALSE,moderate_potential
+Kilchberg (BL),2851,3536,FALSE,FALSE,moderate_potential
+Kilchberg (ZH),135,7500,FALSE,FALSE,moderate_potential
+Killwangen,4030,11180,FALSE,FALSE,moderate_potential
+Kippel,6197,10000,FALSE,FALSE,moderate_potential
+Kirchberg (BE),412,2500,FALSE,TRUE,good_potential
+Kirchberg (SG),3392,0,TRUE,TRUE,high_potential
+Kirchdorf (BE),872,0,TRUE,TRUE,high_potential
+Kirchleerau,4275,0,TRUE,TRUE,high_potential
+Kirchlindach,354,5000,FALSE,FALSE,moderate_potential
+Kleinandelfingen,33,3536,FALSE,FALSE,moderate_potential
+Kleinbösingen,2266,2500,FALSE,TRUE,good_potential
+Kleinlützel,2619,0,TRUE,TRUE,high_potential
+Klingnau,4309,25125,FALSE,FALSE,moderate_potential
+Klosters,3871,3536,FALSE,FALSE,moderate_potential
+Kloten,62,15207,FALSE,FALSE,moderate_potential
+Knonau,7,9014,FALSE,FALSE,moderate_potential
+Knutwil,1089,2500,FALSE,TRUE,good_potential
+Koblenz,4310,25000,FALSE,FALSE,moderate_potential
+Konolfingen,612,0,TRUE,TRUE,high_potential
+Koppigen,413,2500,FALSE,TRUE,good_potential
+Kradolf-Schönenberg,4501,3536,FALSE,FALSE,moderate_potential
+Krattigen,566,0,TRUE,TRUE,high_potential
+Krauchthal,414,0,TRUE,TRUE,high_potential
+Kreuzlingen,4671,7071,FALSE,FALSE,moderate_potential
+Kriechenwil,666,0,TRUE,TRUE,high_potential
+Kriegstetten,2525,7071,FALSE,FALSE,moderate_potential
+Kriens,1059,5590,FALSE,FALSE,moderate_potential
+Känerkinden,2850,2500,FALSE,TRUE,good_potential
+Kölliken,4276,2500,FALSE,TRUE,good_potential
+Köniz,355,0,TRUE,TRUE,high_potential
+Küblis,3882,0,TRUE,TRUE,high_potential
+Künten,4031,10308,FALSE,FALSE,moderate_potential
+Küsnacht (ZH),154,2500,FALSE,TRUE,good_potential
+Küssnacht (SZ),1331,2500,FALSE,TRUE,good_potential
+Küttigen,4008,13463,FALSE,FALSE,moderate_potential
+L'Abbaye,5871,2500,FALSE,TRUE,good_potential
+L'Abergement,5741,0,TRUE,TRUE,high_potential
+L'Isle,5486,2500,FALSE,TRUE,good_potential
+La Baroche,6810,2500,FALSE,TRUE,good_potential
+La Brillaz,2234,3536,FALSE,FALSE,moderate_potential
+La Brévine,6432,0,TRUE,TRUE,high_potential
+La Chaux (Cossonay),5474,0,TRUE,TRUE,high_potential
+La Chaux-de-Fonds,6421,0,TRUE,TRUE,high_potential
+La Chaux-du-Milieu,6435,0,TRUE,TRUE,high_potential
+La Côte-aux-Fées,6504,0,TRUE,TRUE,high_potential
+La Ferrière,435,0,TRUE,TRUE,high_potential
+La Grande Béroche,6417,0,TRUE,TRUE,high_potential
+La Neuveville,723,0,TRUE,TRUE,high_potential
+La Praz,5758,2500,FALSE,TRUE,good_potential
+La Punt Chamues-ch,3785,22500,FALSE,FALSE,moderate_potential
+La Rippe,5726,12500,FALSE,FALSE,moderate_potential
+La Roche,2149,0,TRUE,TRUE,high_potential
+La Sagne,6423,0,TRUE,TRUE,high_potential
+La Sarraz,5498,0,TRUE,TRUE,high_potential
+La Sonnaz,2235,9014,FALSE,FALSE,moderate_potential
+La Tour-de-Peilz,5889,5590,FALSE,FALSE,moderate_potential
+La Verrerie,2338,0,TRUE,TRUE,high_potential
+Laax,3575,0,TRUE,TRUE,high_potential
+Lac de Neuchâtel (BE),9152,3536,FALSE,FALSE,moderate_potential
+Lac de Neuchâtel (NE),9155,2500,FALSE,TRUE,good_potential
+Lachen,1344,5000,FALSE,FALSE,moderate_potential
+Laconnex,6627,0,TRUE,TRUE,high_potential
+Lajoux (JU),6750,2500,FALSE,TRUE,good_potential
+Lalden,6286,0,TRUE,TRUE,high_potential
+Lamone,5189,7071,FALSE,FALSE,moderate_potential
+Lampenberg,2887,0,TRUE,TRUE,high_potential
+Lancy,6628,5000,FALSE,FALSE,moderate_potential
+Landiswil,613,0,TRUE,TRUE,high_potential
+Landquart,3955,0,TRUE,TRUE,high_potential
+Langenbruck,2888,2500,FALSE,TRUE,good_potential
+Langendorf,2550,5590,FALSE,FALSE,moderate_potential
+Langenthal,329,2500,FALSE,TRUE,good_potential
+Langnau am Albis,136,10000,FALSE,FALSE,moderate_potential
+Langnau im Emmental,902,0,TRUE,TRUE,high_potential
+Langrickenbach,4681,0,TRUE,TRUE,high_potential
+Lantsch/Lenz,3513,2500,FALSE,TRUE,good_potential
+Laténa,6513,0,TRUE,TRUE,high_potential
+Lauenen,842,0,TRUE,TRUE,high_potential
+Lauerz,1365,5590,FALSE,FALSE,moderate_potential
+Laufen,2787,0,TRUE,TRUE,high_potential
+Laufen-Uhwiesen,34,0,TRUE,TRUE,high_potential
+Laufenburg,4170,15207,FALSE,FALSE,moderate_potential
+Laupen,667,0,TRUE,TRUE,high_potential
+Laupersdorf,2426,0,TRUE,TRUE,high_potential
+Lauperswil,903,0,TRUE,TRUE,high_potential
+Lausanne,5586,0,TRUE,TRUE,high_potential
+Lausen,2828,0,TRUE,TRUE,high_potential
+Lauterbrunnen,584,0,TRUE,TRUE,high_potential
+Lauwil,2889,2500,FALSE,TRUE,good_potential
+Lavertezzo,5112,10607,FALSE,FALSE,moderate_potential
+Lavey-Morcles,5406,9014,FALSE,FALSE,moderate_potential
+Lavigny,5637,2500,FALSE,TRUE,good_potential
+Lavizzara,5323,5000,FALSE,FALSE,moderate_potential
+Lax,6061,0,TRUE,TRUE,high_potential
+Le Bémont (JU),6741,2500,FALSE,TRUE,good_potential
+Le Cerneux-Péquignot,6434,0,TRUE,TRUE,high_potential
+Le Chenit,5872,9014,FALSE,FALSE,moderate_potential
+Le Châtelard,2067,0,TRUE,TRUE,high_potential
+Le Flon,2337,0,TRUE,TRUE,high_potential
+Le Grand-Saconnex,6623,7906,FALSE,FALSE,moderate_potential
+Le Landeron,6455,0,TRUE,TRUE,high_potential
+Le Lieu,5873,5000,FALSE,FALSE,moderate_potential
+Le Locle,6436,0,TRUE,TRUE,high_potential
+Le Mont-sur-Lausanne,5587,2500,FALSE,TRUE,good_potential
+Le Mouret,2220,0,TRUE,TRUE,high_potential
+Le Noirmont,6754,0,TRUE,TRUE,high_potential
+Le Pâquier (FR),2145,2500,FALSE,TRUE,good_potential
+Le Vaud,5731,2500,FALSE,TRUE,good_potential
+Leibstadt,4311,23717,FALSE,FALSE,moderate_potential
+Leimbach (AG),4137,0,TRUE,TRUE,high_potential
+Leissigen,585,2500,FALSE,TRUE,good_potential
+Lema,5395,14142,FALSE,FALSE,moderate_potential
+Lengnau (AG),4312,20156,FALSE,FALSE,moderate_potential
+Lengnau (BE),387,2500,FALSE,TRUE,good_potential
+Lengwil,4683,2500,FALSE,TRUE,good_potential
+Lenk,792,0,TRUE,TRUE,high_potential
+Lens,6240,13463,FALSE,FALSE,moderate_potential
+Lenzburg,4201,2500,FALSE,TRUE,good_potential
+Les Bois,6742,0,TRUE,TRUE,high_potential
+Les Breuleux,6743,0,TRUE,TRUE,high_potential
+Les Clées,5750,2500,FALSE,TRUE,good_potential
+Les Enfers,6745,0,TRUE,TRUE,high_potential
+Les Genevez (JU),6748,3536,FALSE,FALSE,moderate_potential
+Les Montets,2050,7906,FALSE,FALSE,moderate_potential
+Les Planchettes,6422,2500,FALSE,TRUE,good_potential
+Les Ponts-de-Martel,6437,0,TRUE,TRUE,high_potential
+Les Verrières,6511,0,TRUE,TRUE,high_potential
+Leuggern,4313,22500,FALSE,FALSE,moderate_potential
+Leuk,6110,7071,FALSE,FALSE,moderate_potential
+Leukerbad,6111,5590,FALSE,FALSE,moderate_potential
+Leutwil,4138,0,TRUE,TRUE,high_potential
+Leuzigen,388,10607,FALSE,FALSE,moderate_potential
+Leysin,5407,3536,FALSE,FALSE,moderate_potential
+Leytron,6135,5000,FALSE,FALSE,moderate_potential
+Lichtensteig,3374,0,TRUE,TRUE,high_potential
+Liddes,6033,5000,FALSE,FALSE,moderate_potential
+Liedertswil,2890,0,TRUE,TRUE,high_potential
+Liesberg,2788,2500,FALSE,TRUE,good_potential
+Liestal,2829,2500,FALSE,TRUE,good_potential
+Ligerz,740,0,TRUE,TRUE,high_potential
+Lignerolle,5755,2500,FALSE,TRUE,good_potential
+Lignières,6456,0,TRUE,TRUE,high_potential
+Lindau,176,7906,FALSE,FALSE,moderate_potential
+Linden,614,0,TRUE,TRUE,high_potential
+Linescio,5315,25000,FALSE,FALSE,moderate_potential
+Locarno,5113,10607,FALSE,FALSE,moderate_potential
+Lohn (SH),2917,10000,FALSE,FALSE,moderate_potential
+Lohn-Ammannsegg,2526,11180,FALSE,FALSE,moderate_potential
+Lommis,4741,2500,FALSE,TRUE,good_potential
+Lommiswil,2551,5000,FALSE,FALSE,moderate_potential
+Lonay,5638,0,TRUE,TRUE,high_potential
+Longirod,5429,2500,FALSE,TRUE,good_potential
+Losone,5115,21360,FALSE,FALSE,moderate_potential
+Lostallo,3821,12500,FALSE,FALSE,moderate_potential
+Lostorf,2493,9014,FALSE,FALSE,moderate_potential
+Lotzwil,331,0,TRUE,TRUE,high_potential
+Lovatens,5674,2500,FALSE,TRUE,good_potential
+Loveresse,696,0,TRUE,TRUE,high_potential
+Lucens,5675,0,TRUE,TRUE,high_potential
+Lufingen,63,14142,FALSE,FALSE,moderate_potential
+Lugano,5192,2500,FALSE,TRUE,good_potential
+Luins,5858,2500,FALSE,TRUE,good_potential
+Lully (FR),2025,12500,FALSE,FALSE,moderate_potential
+Lully (VD),5639,2500,FALSE,TRUE,good_potential
+Lumino,5010,3536,FALSE,FALSE,moderate_potential
+Lumnezia,3618,0,TRUE,TRUE,high_potential
+Lungern,1405,0,TRUE,TRUE,high_potential
+Lupfig,4104,7500,FALSE,FALSE,moderate_potential
+Lupsingen,2830,0,TRUE,TRUE,high_potential
+Lussery-Villars,5487,0,TRUE,TRUE,high_potential
+Lussy-sur-Morges,5640,2500,FALSE,TRUE,good_potential
+Luterbach,2527,7500,FALSE,FALSE,moderate_potential
+Luthern,1135,0,TRUE,TRUE,high_potential
+Lutry,5606,2500,FALSE,TRUE,good_potential
+Lutzenberg,3033,3536,FALSE,FALSE,moderate_potential
+Luzein,3891,0,TRUE,TRUE,high_potential
+Luzern,1061,5000,FALSE,FALSE,moderate_potential
+Lyss,306,5000,FALSE,FALSE,moderate_potential
+Lyssach,415,2500,FALSE,TRUE,good_potential
+Läufelfingen,2852,5000,FALSE,FALSE,moderate_potential
+Löhningen,2903,11180,FALSE,FALSE,moderate_potential
+Lüscherz,497,0,TRUE,TRUE,high_potential
+Lüsslingen-Nennigkofen,2464,10308,FALSE,FALSE,moderate_potential
+Lüterkofen-Ichertswil,2455,12500,FALSE,FALSE,moderate_potential
+Lütisburg,3393,0,TRUE,TRUE,high_potential
+Lütschental,586,2500,FALSE,TRUE,good_potential
+Lützelflüh,955,0,TRUE,TRUE,high_potential
+Madiswil,332,0,TRUE,TRUE,high_potential
+Madulain,3783,30000,FALSE,FALSE,moderate_potential
+Magden,4253,0,TRUE,TRUE,high_potential
+Maggia,5317,23585,FALSE,FALSE,moderate_potential
+Magliaso,5193,14577,FALSE,FALSE,moderate_potential
+Maienfeld,3953,0,TRUE,TRUE,high_potential
+Maisprach,2853,2500,FALSE,TRUE,good_potential
+Malans,3954,2500,FALSE,TRUE,good_potential
+Malters,1062,2500,FALSE,TRUE,good_potential
+Mammern,4826,5590,FALSE,FALSE,moderate_potential
+Mandach,4105,20000,FALSE,FALSE,moderate_potential
+Manno,5194,9014,FALSE,FALSE,moderate_potential
+Maracon,5790,0,TRUE,TRUE,high_potential
+Marbach (SG),3253,0,TRUE,TRUE,high_potential
+Marchissy,5430,3536,FALSE,FALSE,moderate_potential
+Marly,2206,7500,FALSE,FALSE,moderate_potential
+Marsens,2140,2500,FALSE,TRUE,good_potential
+Marthalen,35,3536,FALSE,FALSE,moderate_potential
+Martigny,6136,2500,FALSE,TRUE,good_potential
+Martigny-Combe,6137,5000,FALSE,FALSE,moderate_potential
+Maschwanden,8,7906,FALSE,FALSE,moderate_potential
+Masein,3663,0,TRUE,TRUE,high_potential
+Massagno,5196,10308,FALSE,FALSE,moderate_potential
+Massongex,6215,5590,FALSE,FALSE,moderate_potential
+Massonnens,2086,0,TRUE,TRUE,high_potential
+Mathod,5919,3536,FALSE,FALSE,moderate_potential
+Matran,2208,9014,FALSE,FALSE,moderate_potential
+Matten bei Interlaken,587,7071,FALSE,FALSE,moderate_potential
+Mattstetten,543,3536,FALSE,FALSE,moderate_potential
+Matzendorf,2427,2500,FALSE,TRUE,good_potential
+Matzingen,4591,0,TRUE,TRUE,high_potential
+Mauborget,5562,0,TRUE,TRUE,high_potential
+Mauensee,1091,0,TRUE,TRUE,high_potential
+Maur,195,0,TRUE,TRUE,high_potential
+Mauraz,5488,0,TRUE,TRUE,high_potential
+Mauren,7008,12500,FALSE,FALSE,moderate_potential
+Medel (Lucmagn),3983,3536,FALSE,FALSE,moderate_potential
+Meggen,1063,2500,FALSE,TRUE,good_potential
+Meienried,389,5590,FALSE,FALSE,moderate_potential
+Meierskappel,1064,0,TRUE,TRUE,high_potential
+Meikirch,307,0,TRUE,TRUE,high_potential
+Meilen,156,0,TRUE,TRUE,high_potential
+Meinier,6629,0,TRUE,TRUE,high_potential
+Meinisberg,390,3536,FALSE,FALSE,moderate_potential
+Meiringen,785,2500,FALSE,TRUE,good_potential
+Meisterschwanden,4202,0,TRUE,TRUE,high_potential
+Melchnau,333,0,TRUE,TRUE,high_potential
+Melide,5198,15207,FALSE,FALSE,moderate_potential
+Mellikon,4314,22361,FALSE,FALSE,moderate_potential
+Mellingen,4033,7071,FALSE,FALSE,moderate_potential
+Mels,3293,2500,FALSE,TRUE,good_potential
+Meltingen,2620,3536,FALSE,FALSE,moderate_potential
+Mendrisio,5254,22500,FALSE,FALSE,moderate_potential
+Menziken,4139,2500,FALSE,TRUE,good_potential
+Menzingen,1704,2500,FALSE,TRUE,good_potential
+Menznau,1136,0,TRUE,TRUE,high_potential
+Merenschwand,4234,5590,FALSE,FALSE,moderate_potential
+Mergoscia,5117,17678,FALSE,FALSE,moderate_potential
+Merishausen,2936,11180,FALSE,FALSE,moderate_potential
+Mervelier,6715,2500,FALSE,TRUE,good_potential
+Merzligen,741,3536,FALSE,FALSE,moderate_potential
+Mesocco,3822,12500,FALSE,FALSE,moderate_potential
+Messen,2457,10607,FALSE,FALSE,moderate_potential
+Mettauertal,4184,18200,FALSE,FALSE,moderate_potential
+Mettembert,6716,0,TRUE,TRUE,high_potential
+Mettmenstetten,9,9014,FALSE,FALSE,moderate_potential
+Metzerlen-Mariastein,2477,0,TRUE,TRUE,high_potential
+Mex (VD),5489,2500,FALSE,TRUE,good_potential
+Meyriez,2271,2500,FALSE,TRUE,good_potential
+Meyrin,6630,5590,FALSE,FALSE,moderate_potential
+Mezzovico-Vira,5199,5000,FALSE,FALSE,moderate_potential
+Mies,5723,10607,FALSE,FALSE,moderate_potential
+Milvignes,6416,3536,FALSE,FALSE,moderate_potential
+Minusio,5118,14577,FALSE,FALSE,moderate_potential
+Mirchel,615,0,TRUE,TRUE,high_potential
+Misery-Courtion,2272,7906,FALSE,FALSE,moderate_potential
+Missy,5821,13463,FALSE,FALSE,moderate_potential
+Moiry,5490,0,TRUE,TRUE,high_potential
+Mollens (VD),5431,3536,FALSE,FALSE,moderate_potential
+Molondin,5921,2500,FALSE,TRUE,good_potential
+Mont-Noble,6090,7071,FALSE,FALSE,moderate_potential
+Mont-Tramelan,437,0,TRUE,TRUE,high_potential
+Mont-Vully,2284,5000,FALSE,FALSE,moderate_potential
+Mont-la-Ville,5491,0,TRUE,TRUE,high_potential
+Mont-sur-Rolle,5859,0,TRUE,TRUE,high_potential
+Montagny (FR),2029,5000,FALSE,FALSE,moderate_potential
+Montagny-près-Yverdon,5922,0,TRUE,TRUE,high_potential
+Montanaire,5693,0,TRUE,TRUE,high_potential
+Montcherand,5756,2500,FALSE,TRUE,good_potential
+Monteceneri,5238,2500,FALSE,TRUE,good_potential
+Montfaucon,6751,0,TRUE,TRUE,high_potential
+Monthey,6153,0,TRUE,TRUE,high_potential
+Montilliez,5540,0,TRUE,TRUE,high_potential
+Montpreveyres,5792,0,TRUE,TRUE,high_potential
+Montreux,5886,2500,FALSE,TRUE,good_potential
+Montricher,5492,2500,FALSE,TRUE,good_potential
+Moosleerau,4277,2500,FALSE,TRUE,good_potential
+Moosseedorf,544,3536,FALSE,FALSE,moderate_potential
+Morbio Inferiore,5257,27500,FALSE,FALSE,moderate_potential
+Morcote,5203,20616,FALSE,FALSE,moderate_potential
+Morges,5642,2500,FALSE,TRUE,good_potential
+Morlon,2143,5000,FALSE,FALSE,moderate_potential
+Morrens (VD),5527,2500,FALSE,TRUE,good_potential
+Morschach,1366,0,TRUE,TRUE,high_potential
+Mosnang,3394,0,TRUE,TRUE,high_potential
+Moudon,5678,0,TRUE,TRUE,high_potential
+Moutier,6831,0,TRUE,TRUE,high_potential
+Movelier,6718,0,TRUE,TRUE,high_potential
+Muhen,4009,5000,FALSE,FALSE,moderate_potential
+Mumpf,4255,3536,FALSE,FALSE,moderate_potential
+Muntelier,2274,3536,FALSE,FALSE,moderate_potential
+Muntogna da Schons,3715,0,TRUE,TRUE,high_potential
+Muolen,3202,0,TRUE,TRUE,high_potential
+Muotathal,1367,0,TRUE,TRUE,high_potential
+Muralto,5120,16771,FALSE,FALSE,moderate_potential
+Murgenthal,4279,3536,FALSE,FALSE,moderate_potential
+Muri (AG),4236,5000,FALSE,FALSE,moderate_potential
+Muri bei Bern,356,0,TRUE,TRUE,high_potential
+Muriaux,6753,0,TRUE,TRUE,high_potential
+Murten,2275,0,TRUE,TRUE,high_potential
+Mutrux,5563,2500,FALSE,TRUE,good_potential
+Muttenz,2770,9014,FALSE,FALSE,moderate_potential
+Muzzano,5205,11180,FALSE,FALSE,moderate_potential
+Mägenwil,4032,5590,FALSE,FALSE,moderate_potential
+Männedorf,155,5590,FALSE,FALSE,moderate_potential
+Märstetten,4941,0,TRUE,TRUE,high_potential
+Mézières (FR),2087,0,TRUE,TRUE,high_potential
+Möhlin,4254,3536,FALSE,FALSE,moderate_potential
+Mönchaltorf,196,5000,FALSE,FALSE,moderate_potential
+Mönthal,4106,15207,FALSE,FALSE,moderate_potential
+Mörel-Filet,6203,5000,FALSE,FALSE,moderate_potential
+Mörigen,742,2500,FALSE,TRUE,good_potential
+Möriken-Wildegg,4203,5000,FALSE,FALSE,moderate_potential
+Mörschwil,3214,5590,FALSE,FALSE,moderate_potential
+Mühlau,4235,5590,FALSE,FALSE,moderate_potential
+Mühleberg,668,0,TRUE,TRUE,high_potential
+Müllheim,4831,2500,FALSE,TRUE,good_potential
+Mülligen,4107,10308,FALSE,FALSE,moderate_potential
+Mümliswil-Ramiswil,2428,0,TRUE,TRUE,high_potential
+Münchenbuchsee,546,5590,FALSE,FALSE,moderate_potential
+Münchenstein,2769,5590,FALSE,FALSE,moderate_potential
+Münchenwiler,669,0,TRUE,TRUE,high_potential
+Münchwilen (AG),4172,5000,FALSE,FALSE,moderate_potential
+Münchwilen (TG),4746,5000,FALSE,FALSE,moderate_potential
+Münsingen,616,2500,FALSE,TRUE,good_potential
+Münsterlingen,4691,2500,FALSE,TRUE,good_potential
+Müntschemier,498,3536,FALSE,FALSE,moderate_potential
+Naters,6007,2500,FALSE,TRUE,good_potential
+Nebikon,1137,2500,FALSE,TRUE,good_potential
+Neckertal,3396,0,TRUE,TRUE,high_potential
+Neerach,88,20156,FALSE,FALSE,moderate_potential
+Neftenbach,223,5590,FALSE,FALSE,moderate_potential
+Neggio,5206,14577,FALSE,FALSE,moderate_potential
+Nendaz,6024,0,TRUE,TRUE,high_potential
+Nenzlingen,2789,0,TRUE,TRUE,high_potential
+Nesslau,3360,0,TRUE,TRUE,high_potential
+Neuchâtel,6458,0,TRUE,TRUE,high_potential
+Neuendorf,2404,2500,FALSE,TRUE,good_potential
+Neuenegg,670,0,TRUE,TRUE,high_potential
+Neuenhof,4034,12500,FALSE,FALSE,moderate_potential
+Neuenkirch,1093,2500,FALSE,TRUE,good_potential
+Neuhausen am Rheinfall,2937,5590,FALSE,FALSE,moderate_potential
+Neuheim,1705,7071,FALSE,FALSE,moderate_potential
+Neunforn,4601,5590,FALSE,FALSE,moderate_potential
+Neunkirch,2904,10000,FALSE,FALSE,moderate_potential
+Neyruz (FR),2211,5590,FALSE,FALSE,moderate_potential
+Nidau,743,5590,FALSE,FALSE,moderate_potential
+Niederbipp,981,0,TRUE,TRUE,high_potential
+Niederbuchsiten,2405,0,TRUE,TRUE,high_potential
+Niederbüren,3422,5000,FALSE,FALSE,moderate_potential
+Niederdorf,2891,0,TRUE,TRUE,high_potential
+Niedergesteln,6198,5590,FALSE,FALSE,moderate_potential
+Niederglatt,89,16008,FALSE,FALSE,moderate_potential
+Niedergösgen,2495,10000,FALSE,FALSE,moderate_potential
+Niederhasli,90,19526,FALSE,FALSE,moderate_potential
+Niederhelfenschwil,3423,2500,FALSE,TRUE,good_potential
+Niederhünigen,617,2500,FALSE,TRUE,good_potential
+Niederlenz,4204,2500,FALSE,TRUE,good_potential
+Niedermuhlern,877,2500,FALSE,TRUE,good_potential
+Niederried bei Interlaken,588,10308,FALSE,FALSE,moderate_potential
+Niederrohrdorf,4035,9014,FALSE,FALSE,moderate_potential
+Niederweningen,91,19526,FALSE,FALSE,moderate_potential
+Niederwil (AG),4072,7906,FALSE,FALSE,moderate_potential
+Niederönz,982,2500,FALSE,TRUE,good_potential
+Noble-Contrée,6254,14142,FALSE,FALSE,moderate_potential
+Nods,724,0,TRUE,TRUE,high_potential
+Nottwil,1094,2500,FALSE,TRUE,good_potential
+Novalles,5564,2500,FALSE,TRUE,good_potential
+Novazzano,5260,27500,FALSE,FALSE,moderate_potential
+Noville,5408,7500,FALSE,FALSE,moderate_potential
+Nuglar-St. Pantaleon,2478,5590,FALSE,FALSE,moderate_potential
+Nunningen,2621,0,TRUE,TRUE,high_potential
+Nusshof,2854,0,TRUE,TRUE,high_potential
+Nuvilly,2035,5000,FALSE,FALSE,moderate_potential
+Nyon,5724,10308,FALSE,FALSE,moderate_potential
+Nürensdorf,64,10308,FALSE,FALSE,moderate_potential
+Oberbalm,357,2500,FALSE,TRUE,good_potential
+Oberbipp,983,2500,FALSE,TRUE,good_potential
+Oberbuchsiten,2406,0,TRUE,TRUE,high_potential
+Oberburg,418,0,TRUE,TRUE,high_potential
+Oberbüren,3424,3536,FALSE,FALSE,moderate_potential
+Oberdiessbach,619,0,TRUE,TRUE,high_potential
+Oberdorf (BL),2892,0,TRUE,TRUE,high_potential
+Oberdorf (NW),1508,5590,FALSE,FALSE,moderate_potential
+Oberdorf (SO),2553,5000,FALSE,FALSE,moderate_potential
+Oberegg,3111,0,TRUE,TRUE,high_potential
+Oberembrach,65,10607,FALSE,FALSE,moderate_potential
+Oberems,6112,5000,FALSE,FALSE,moderate_potential
+Oberengstringen,245,18028,FALSE,FALSE,moderate_potential
+Oberentfelden,4010,7500,FALSE,FALSE,moderate_potential
+Obergerlafingen,2528,5590,FALSE,FALSE,moderate_potential
+Oberglatt,92,17678,FALSE,FALSE,moderate_potential
+Obergoms,6076,0,TRUE,TRUE,high_potential
+Obergösgen,2497,7500,FALSE,FALSE,moderate_potential
+Oberhallau,2972,15811,FALSE,FALSE,moderate_potential
+Oberhof,4173,12500,FALSE,FALSE,moderate_potential
+Oberhofen am Thunersee,934,0,TRUE,TRUE,high_potential
+Oberhünigen,629,0,TRUE,TRUE,high_potential
+Oberiberg,1368,0,TRUE,TRUE,high_potential
+Oberkirch,1095,0,TRUE,TRUE,high_potential
+Oberkulm,4140,2500,FALSE,TRUE,good_potential
+Oberlangenegg,935,0,TRUE,TRUE,high_potential
+Oberlunkhofen,4073,10000,FALSE,FALSE,moderate_potential
+Obermumpf,4256,5000,FALSE,FALSE,moderate_potential
+Oberried am Brienzersee,589,10000,FALSE,FALSE,moderate_potential
+Oberrieden,137,7906,FALSE,FALSE,moderate_potential
+Oberriet (SG),3254,0,TRUE,TRUE,high_potential
+Oberrohrdorf,4037,9014,FALSE,FALSE,moderate_potential
+Oberrüti,4237,5590,FALSE,FALSE,moderate_potential
+Obersaxen Mundaun,3988,0,TRUE,TRUE,high_potential
+Obersiggenthal,4038,13463,FALSE,FALSE,moderate_potential
+Oberthal,620,0,TRUE,TRUE,high_potential
+Oberuzwil,3407,0,TRUE,TRUE,high_potential
+Oberweningen,93,21213,FALSE,FALSE,moderate_potential
+Oberwil (BL),2771,5000,FALSE,FALSE,moderate_potential
+Oberwil bei Büren,391,10607,FALSE,FALSE,moderate_potential
+Oberwil im Simmental,766,0,TRUE,TRUE,high_potential
+Oberwil-Lieli,4074,12748,FALSE,FALSE,moderate_potential
+Oberägeri,1706,0,TRUE,TRUE,high_potential
+Obfelden,10,10607,FALSE,FALSE,moderate_potential
+Ochlenberg,985,0,TRUE,TRUE,high_potential
+Oensingen,2407,3536,FALSE,FALSE,moderate_potential
+Oeschenbach,335,0,TRUE,TRUE,high_potential
+Oeschgen,4175,10000,FALSE,FALSE,moderate_potential
+Oetwil am See,157,3536,FALSE,FALSE,moderate_potential
+Oetwil an der Limmat,246,16771,FALSE,FALSE,moderate_potential
+Oftringen,4280,3536,FALSE,FALSE,moderate_potential
+Ogens,5680,3536,FALSE,FALSE,moderate_potential
+Ollon,5409,0,TRUE,TRUE,high_potential
+Olsberg,4257,3536,FALSE,FALSE,moderate_potential
+Olten,2581,7500,FALSE,FALSE,moderate_potential
+Oltingen,2855,7500,FALSE,FALSE,moderate_potential
+Onex,6631,2500,FALSE,TRUE,good_potential
+Onnens (VD),5565,2500,FALSE,TRUE,good_potential
+Onsernone,5136,26926,FALSE,FALSE,moderate_potential
+Opfikon,66,14577,FALSE,FALSE,moderate_potential
+Oppens,5923,2500,FALSE,TRUE,good_potential
+Oppligen,622,2500,FALSE,TRUE,good_potential
+Orbe,5757,0,TRUE,TRUE,high_potential
+Orges,5924,0,TRUE,TRUE,high_potential
+Origlio,5208,5590,FALSE,FALSE,moderate_potential
+Ormalingen,2856,3536,FALSE,FALSE,moderate_potential
+Ormont-Dessous,5410,0,TRUE,TRUE,high_potential
+Ormont-Dessus,5411,2500,FALSE,TRUE,good_potential
+Orny,5493,0,TRUE,TRUE,high_potential
+Oron,5805,0,TRUE,TRUE,high_potential
+Orpund,744,3536,FALSE,FALSE,moderate_potential
+Orselina,5121,16771,FALSE,FALSE,moderate_potential
+Orsières,6034,0,TRUE,TRUE,high_potential
+Orvin,438,0,TRUE,TRUE,high_potential
+Orzens,5925,2500,FALSE,TRUE,good_potential
+Ossingen,37,2500,FALSE,TRUE,good_potential
+Ostermundigen,363,0,TRUE,TRUE,high_potential
+Otelfingen,94,18028,FALSE,FALSE,moderate_potential
+Othmarsingen,4205,2500,FALSE,TRUE,good_potential
+Ottenbach,11,9014,FALSE,FALSE,moderate_potential
+Oulens-sous-Echallens,5529,0,TRUE,TRUE,high_potential
+Pailly,5530,0,TRUE,TRUE,high_potential
+Paradiso,5210,12748,FALSE,FALSE,moderate_potential
+Paudex,5588,2500,FALSE,TRUE,good_potential
+Payerne,5822,5590,FALSE,FALSE,moderate_potential
+Penthalaz,5495,2500,FALSE,TRUE,good_potential
+Penthaz,5496,0,TRUE,TRUE,high_potential
+Penthéréaz,5531,0,TRUE,TRUE,high_potential
+Perly-Certoux,6632,0,TRUE,TRUE,high_potential
+Perrefitte,701,0,TRUE,TRUE,high_potential
+Perroy,5860,3536,FALSE,FALSE,moderate_potential
+Personico,5076,19526,FALSE,FALSE,moderate_potential
+Petit-Val,716,0,TRUE,TRUE,high_potential
+Pfaffnau,1139,2500,FALSE,TRUE,good_potential
+Pfeffingen,2772,0,TRUE,TRUE,high_potential
+Pfungen,224,7071,FALSE,FALSE,moderate_potential
+Pfyn,4841,5000,FALSE,FALSE,moderate_potential
+Pfäfers,3294,0,TRUE,TRUE,high_potential
+Pfäffikon,177,0,TRUE,TRUE,high_potential
+Pierrafortscha,2216,7906,FALSE,FALSE,moderate_potential
+Pieterlen,392,2500,FALSE,TRUE,good_potential
+Plaffeien,2299,0,TRUE,TRUE,high_potential
+Plan-les-Ouates,6633,2500,FALSE,TRUE,good_potential
+Planken,7006,12500,FALSE,FALSE,moderate_potential
+Plasselb,2300,2500,FALSE,TRUE,good_potential
+Plateau de Diesse,726,0,TRUE,TRUE,high_potential
+Pleigne,6719,0,TRUE,TRUE,high_potential
+Pohlern,936,10000,FALSE,FALSE,moderate_potential
+Poliez-Pittet,5533,0,TRUE,TRUE,high_potential
+Pollegio,5077,21506,FALSE,FALSE,moderate_potential
+Pompaples,5497,0,TRUE,TRUE,high_potential
+Pomy,5926,2500,FALSE,TRUE,good_potential
+Pont-en-Ogoz,2122,0,TRUE,TRUE,high_potential
+Pont-la-Ville,2147,2500,FALSE,TRUE,good_potential
+Ponte Capriasca,5212,2500,FALSE,TRUE,good_potential
+Pontresina,3784,28505,FALSE,FALSE,moderate_potential
+Porrentruy,6800,5590,FALSE,FALSE,moderate_potential
+Port,745,5000,FALSE,FALSE,moderate_potential
+Port-Valais,6154,7500,FALSE,FALSE,moderate_potential
+Porza,5214,7906,FALSE,FALSE,moderate_potential
+Poschiavo,3561,38161,FALSE,FALSE,moderate_potential
+Prangins,5725,7500,FALSE,FALSE,moderate_potential
+Pratteln,2831,7071,FALSE,FALSE,moderate_potential
+Pregny-Chambésy,6634,7500,FALSE,FALSE,moderate_potential
+Premier,5759,0,TRUE,TRUE,high_potential
+Presinge,6635,0,TRUE,TRUE,high_potential
+Prez,2237,2500,FALSE,TRUE,good_potential
+Prilly,5589,2500,FALSE,TRUE,good_potential
+Provence,5566,0,TRUE,TRUE,high_potential
+Préverenges,5643,3536,FALSE,FALSE,moderate_potential
+Prévondavaux,2038,0,TRUE,TRUE,high_potential
+Prévonloup,5683,0,TRUE,TRUE,high_potential
+Puidoux,5607,0,TRUE,TRUE,high_potential
+Pully,5590,3536,FALSE,FALSE,moderate_potential
+Puplinge,6636,0,TRUE,TRUE,high_potential
+Pura,5216,16008,FALSE,FALSE,moderate_potential
+Péry-La Heutte,450,0,TRUE,TRUE,high_potential
+Quarten,3295,0,TRUE,TRUE,high_potential
+Quinto,5079,5590,FALSE,FALSE,moderate_potential
+Radelfingen,309,0,TRUE,TRUE,high_potential
+Rafz,67,11180,FALSE,FALSE,moderate_potential
+Rain,1037,0,TRUE,TRUE,high_potential
+Ramlinsburg,2832,0,TRUE,TRUE,high_potential
+Ramsen,2963,9014,FALSE,FALSE,moderate_potential
+Rances,5760,5000,FALSE,FALSE,moderate_potential
+Randa,6287,10000,FALSE,FALSE,moderate_potential
+Raperswilen,4846,0,TRUE,TRUE,high_potential
+Rapperswil (BE),310,7071,FALSE,FALSE,moderate_potential
+Rapperswil-Jona,3340,2500,FALSE,TRUE,good_potential
+Raron,6199,3536,FALSE,FALSE,moderate_potential
+Realp,1212,3536,FALSE,FALSE,moderate_potential
+Rebstein,3255,0,TRUE,TRUE,high_potential
+Rebévelier,715,0,TRUE,TRUE,high_potential
+Recherswil,2530,3536,FALSE,FALSE,moderate_potential
+Rechthalten,2301,5590,FALSE,FALSE,moderate_potential
+Reconvilier,703,0,TRUE,TRUE,high_potential
+Regensberg,95,21506,FALSE,FALSE,moderate_potential
+Regensdorf,96,19526,FALSE,FALSE,moderate_potential
+Rehetobel,3034,0,TRUE,TRUE,high_potential
+Reichenbach im Kandertal,567,0,TRUE,TRUE,high_potential
+Reichenburg,1345,7500,FALSE,FALSE,moderate_potential
+Reiden,1140,0,TRUE,TRUE,high_potential
+Reigoldswil,2893,0,TRUE,TRUE,high_potential
+Reinach (AG),4141,2500,FALSE,TRUE,good_potential
+Reinach (BL),2773,2500,FALSE,TRUE,good_potential
+Reisiswil,336,0,TRUE,TRUE,high_potential
+Reitnau,4281,0,TRUE,TRUE,high_potential
+Remaufens,2333,2500,FALSE,TRUE,good_potential
+Remetschwil,4039,11180,FALSE,FALSE,moderate_potential
+Remigen,4110,17678,FALSE,FALSE,moderate_potential
+Renan (BE),441,0,TRUE,TRUE,high_potential
+Renens (VD),5591,5000,FALSE,FALSE,moderate_potential
+Rennaz,5412,10000,FALSE,FALSE,moderate_potential
+Reute (AR),3035,0,TRUE,TRUE,high_potential
+Reutigen,767,9014,FALSE,FALSE,moderate_potential
+Rheinau,38,5590,FALSE,FALSE,moderate_potential
+Rheineck,3235,2500,FALSE,TRUE,good_potential
+Rheinfelden,4258,5000,FALSE,FALSE,moderate_potential
+Rheinwald,3714,3536,FALSE,FALSE,moderate_potential
+Rhäzüns,3723,2500,FALSE,TRUE,good_potential
+Riaz,2148,0,TRUE,TRUE,high_potential
+Richterswil,138,5590,FALSE,FALSE,moderate_potential
+Rickenbach (BL),2857,2500,FALSE,TRUE,good_potential
+Rickenbach (LU),1097,0,TRUE,TRUE,high_potential
+Rickenbach (SO),2582,5000,FALSE,FALSE,moderate_potential
+Rickenbach (TG),4751,2500,FALSE,TRUE,good_potential
+Rickenbach (ZH),225,3536,FALSE,FALSE,moderate_potential
+Riddes,6139,2500,FALSE,TRUE,good_potential
+Ried bei Kerzers,2276,2500,FALSE,TRUE,good_potential
+Ried-Brig,6008,7906,FALSE,FALSE,moderate_potential
+Riederalp,6181,0,TRUE,TRUE,high_potential
+Riedholz,2554,5590,FALSE,FALSE,moderate_potential
+Riehen,2703,13463,FALSE,FALSE,moderate_potential
+Riemenstalden,1369,0,TRUE,TRUE,high_potential
+Rifferswil,12,10308,FALSE,FALSE,moderate_potential
+Riggisberg,879,2500,FALSE,TRUE,good_potential
+Ringgenberg (BE),590,10308,FALSE,FALSE,moderate_potential
+Riniken,4111,12500,FALSE,FALSE,moderate_potential
+Risch,1707,2500,FALSE,TRUE,good_potential
+Riva San Vitale,5263,20156,FALSE,FALSE,moderate_potential
+Rivaz,5609,2500,FALSE,TRUE,good_potential
+Riviera,5287,10308,FALSE,FALSE,moderate_potential
+Roche (VD),5413,7906,FALSE,FALSE,moderate_potential
+Rochefort,6413,0,TRUE,TRUE,high_potential
+Roches (BE),704,0,TRUE,TRUE,high_potential
+Rodersdorf,2479,3536,FALSE,FALSE,moderate_potential
+Roggenburg,2790,0,TRUE,TRUE,high_potential
+Roggliswil,1142,0,TRUE,TRUE,high_potential
+Roggwil (BE),337,5000,FALSE,FALSE,moderate_potential
+Roggwil (TG),4431,2500,FALSE,TRUE,good_potential
+Rohrbach,338,0,TRUE,TRUE,high_potential
+Rohrbachgraben,339,0,TRUE,TRUE,high_potential
+Rolle,5861,2500,FALSE,TRUE,good_potential
+Romainmôtier-Envy,5761,0,TRUE,TRUE,high_potential
+Romanel-sur-Lausanne,5592,2500,FALSE,TRUE,good_potential
+Romanel-sur-Morges,5645,0,TRUE,TRUE,high_potential
+Romanshorn,4436,2500,FALSE,TRUE,good_potential
+Romont (BE),442,0,TRUE,TRUE,high_potential
+Romont (FR),2096,0,TRUE,TRUE,high_potential
+Romoos,1007,2500,FALSE,TRUE,good_potential
+Ronco sopra Ascona,5125,20156,FALSE,FALSE,moderate_potential
+Rongellen,3711,0,TRUE,TRUE,high_potential
+Root,1065,2500,FALSE,TRUE,good_potential
+Ropraz,5798,0,TRUE,TRUE,high_potential
+Rorbas,68,12500,FALSE,FALSE,moderate_potential
+Rorschach,3215,2500,FALSE,TRUE,good_potential
+Rorschacherberg,3216,2500,FALSE,TRUE,good_potential
+Rossa,3808,15000,FALSE,FALSE,moderate_potential
+Rossemaison,6721,3536,FALSE,FALSE,moderate_potential
+Rossenges,5684,0,TRUE,TRUE,high_potential
+Rossinière,5842,7071,FALSE,FALSE,moderate_potential
+Rothenbrunnen,3637,0,TRUE,TRUE,high_potential
+Rothenburg,1040,5000,FALSE,FALSE,moderate_potential
+Rothenfluh,2858,5590,FALSE,FALSE,moderate_potential
+Rothenthurm,1370,0,TRUE,TRUE,high_potential
+Rothrist,4282,5590,FALSE,FALSE,moderate_potential
+Rottenschwil,4238,10000,FALSE,FALSE,moderate_potential
+Rougemont,5843,0,TRUE,TRUE,high_potential
+Roveredo (GR),3834,0,TRUE,TRUE,high_potential
+Rovray,5928,3536,FALSE,FALSE,moderate_potential
+Rubigen,623,5000,FALSE,FALSE,moderate_potential
+Rudolfstetten-Friedlisberg,4075,11180,FALSE,FALSE,moderate_potential
+Rue,2097,0,TRUE,TRUE,high_potential
+Rueyres,5534,0,TRUE,TRUE,high_potential
+Ruggell,7010,10308,FALSE,FALSE,moderate_potential
+Rumendingen,421,2500,FALSE,TRUE,good_potential
+Rumisberg,987,0,TRUE,TRUE,high_potential
+Rupperswil,4206,5590,FALSE,FALSE,moderate_potential
+Russikon,178,0,TRUE,TRUE,high_potential
+Russin,6637,2500,FALSE,TRUE,good_potential
+Ruswil,1098,0,TRUE,TRUE,high_potential
+Römerswil,1039,0,TRUE,TRUE,high_potential
+Röschenz,2791,2500,FALSE,TRUE,good_potential
+Röthenbach im Emmental,904,0,TRUE,TRUE,high_potential
+Rüderswil,905,0,TRUE,TRUE,high_potential
+Rüdlingen,2938,10000,FALSE,FALSE,moderate_potential
+Rüdtligen-Alchenflüh,420,5000,FALSE,FALSE,moderate_potential
+Rüeggisberg,880,3536,FALSE,FALSE,moderate_potential
+Rüegsau,956,0,TRUE,TRUE,high_potential
+Rüfenach,4112,15000,FALSE,FALSE,moderate_potential
+Rümlang,97,16008,FALSE,FALSE,moderate_potential
+Rümlingen,2859,0,TRUE,TRUE,high_potential
+Rünenberg,2860,2500,FALSE,TRUE,good_potential
+Rüschegg,853,0,TRUE,TRUE,high_potential
+Rüschlikon,139,7500,FALSE,FALSE,moderate_potential
+Rüthi (SG),3256,5590,FALSE,FALSE,moderate_potential
+Rüti (ZH),118,2500,FALSE,TRUE,good_potential
+Rüti bei Büren,393,9014,FALSE,FALSE,moderate_potential
+Rüti bei Lyssach,422,2500,FALSE,TRUE,good_potential
+Rütschelen,340,0,TRUE,TRUE,high_potential
+Rüttenen,2555,7071,FALSE,FALSE,moderate_potential
+S-chanf,3788,21506,FALSE,FALSE,moderate_potential
+Saanen,843,0,TRUE,TRUE,high_potential
+Saas-Almagell,6288,7906,FALSE,FALSE,moderate_potential
+Saas-Balen,6289,9014,FALSE,FALSE,moderate_potential
+Saas-Fee,6290,10607,FALSE,FALSE,moderate_potential
+Saas-Grund,6291,11180,FALSE,FALSE,moderate_potential
+Sachseln,1406,2500,FALSE,TRUE,good_potential
+Safenwil,4283,5590,FALSE,FALSE,moderate_potential
+Safiental,3672,0,TRUE,TRUE,high_potential
+Safnern,746,2500,FALSE,TRUE,good_potential
+Sagogn,3581,2500,FALSE,TRUE,good_potential
+Saicourt,706,2500,FALSE,TRUE,good_potential
+Saignelégier,6757,2500,FALSE,TRUE,good_potential
+Saillon,6140,5590,FALSE,FALSE,moderate_potential
+Saint-Aubin (FR),2041,12500,FALSE,FALSE,moderate_potential
+Saint-Barthélemy (VD),5535,2500,FALSE,TRUE,good_potential
+Saint-Brais,6758,0,TRUE,TRUE,high_potential
+Saint-Cergue,5727,7906,FALSE,FALSE,moderate_potential
+Saint-George,5434,3536,FALSE,FALSE,moderate_potential
+Saint-Gingolph,6155,9014,FALSE,FALSE,moderate_potential
+Saint-Imier,443,0,TRUE,TRUE,high_potential
+Saint-Livres,5435,3536,FALSE,FALSE,moderate_potential
+Saint-Léonard,6246,10308,FALSE,FALSE,moderate_potential
+Saint-Martin (FR),2335,0,TRUE,TRUE,high_potential
+Saint-Martin (VS),6087,5000,FALSE,FALSE,moderate_potential
+Saint-Maurice,6217,7906,FALSE,FALSE,moderate_potential
+Saint-Oyens,5436,0,TRUE,TRUE,high_potential
+Saint-Prex,5646,5000,FALSE,FALSE,moderate_potential
+Saint-Saphorin (Lavaux),5610,2500,FALSE,TRUE,good_potential
+Saint-Sulpice (VD),5648,5590,FALSE,FALSE,moderate_potential
+Sainte-Croix,5568,0,TRUE,TRUE,high_potential
+Salenstein,4851,0,TRUE,TRUE,high_potential
+Salgesch,6113,15000,FALSE,FALSE,moderate_potential
+Salmsach,4441,2500,FALSE,TRUE,good_potential
+Salvan,6218,7906,FALSE,FALSE,moderate_potential
+Samedan,3786,17500,FALSE,FALSE,moderate_potential
+Samnaun,3752,10607,FALSE,FALSE,moderate_potential
+San Vittore,3835,2500,FALSE,TRUE,good_potential
+Sant'Antonino,5017,5000,FALSE,FALSE,moderate_potential
+Santa Maria in Calanca,3810,5590,FALSE,FALSE,moderate_potential
+Sargans,3296,5590,FALSE,FALSE,moderate_potential
+Sarmenstorf,4076,0,TRUE,TRUE,high_potential
+Sarnen,1407,5000,FALSE,FALSE,moderate_potential
+Satigny,6638,0,TRUE,TRUE,high_potential
+Sattel,1371,0,TRUE,TRUE,high_potential
+Saubraz,5437,2500,FALSE,TRUE,good_potential
+Sauge,449,0,TRUE,TRUE,high_potential
+Saulcy,6722,0,TRUE,TRUE,high_potential
+Saules (BE),707,0,TRUE,TRUE,high_potential
+Savigny,5611,0,TRUE,TRUE,high_potential
+Savièse,6265,5590,FALSE,FALSE,moderate_potential
+Savosa,5221,7906,FALSE,FALSE,moderate_potential
+Saxeten,591,5000,FALSE,FALSE,moderate_potential
+Saxon,6141,0,TRUE,TRUE,high_potential
+Schaan,7005,10000,FALSE,FALSE,moderate_potential
+Schaffhausen,2939,5000,FALSE,FALSE,moderate_potential
+Schafisheim,4207,5000,FALSE,FALSE,moderate_potential
+Schangnau,906,0,TRUE,TRUE,high_potential
+Scharans,3638,0,TRUE,TRUE,high_potential
+Schattdorf,1213,3536,FALSE,FALSE,moderate_potential
+Schattenhalb,786,5000,FALSE,FALSE,moderate_potential
+Schellenberg,7011,10000,FALSE,FALSE,moderate_potential
+Schelten,708,0,TRUE,TRUE,high_potential
+Schenkon,1099,0,TRUE,TRUE,high_potential
+Scheuren,747,3536,FALSE,FALSE,moderate_potential
+Schiers,3962,0,TRUE,TRUE,high_potential
+Schinznach,4125,11180,FALSE,FALSE,moderate_potential
+Schlatt (TG),4546,0,TRUE,TRUE,high_potential
+Schlatt (ZH),226,5000,FALSE,FALSE,moderate_potential
+Schlatt-Haslen,3104,0,TRUE,TRUE,high_potential
+Schleinikon,98,17678,FALSE,FALSE,moderate_potential
+Schleitheim,2952,14142,FALSE,FALSE,moderate_potential
+Schlierbach,1100,0,TRUE,TRUE,high_potential
+Schlieren,247,16771,FALSE,FALSE,moderate_potential
+Schlossrued,4142,2500,FALSE,TRUE,good_potential
+Schluein,3582,0,TRUE,TRUE,high_potential
+Schmerikon,3338,3536,FALSE,FALSE,moderate_potential
+Schmiedrued,4143,0,TRUE,TRUE,high_potential
+Schmitten (FR),2305,0,TRUE,TRUE,high_potential
+Schmitten (GR),3514,7500,FALSE,FALSE,moderate_potential
+Schneisingen,4318,21506,FALSE,FALSE,moderate_potential
+Schnottwil,2461,9014,FALSE,FALSE,moderate_potential
+Schongau,1041,5590,FALSE,FALSE,moderate_potential
+Schupfart,4259,7906,FALSE,FALSE,moderate_potential
+Schwaderloch,4176,20616,FALSE,FALSE,moderate_potential
+Schwadernau,748,5590,FALSE,FALSE,moderate_potential
+Schwanden bei Brienz,592,2500,FALSE,TRUE,good_potential
+Schwarzenberg,1066,2500,FALSE,TRUE,good_potential
+Schwarzenburg,855,2500,FALSE,TRUE,good_potential
+Schwarzhäusern,341,2500,FALSE,TRUE,good_potential
+Schwellbrunn,3004,0,TRUE,TRUE,high_potential
+Schwende-Rüte,3112,0,TRUE,TRUE,high_potential
+Schwerzenbach,197,5000,FALSE,FALSE,moderate_potential
+Schwyz,1372,0,TRUE,TRUE,high_potential
+Schänis,3315,2500,FALSE,TRUE,good_potential
+Schöfflisdorf,99,19526,FALSE,FALSE,moderate_potential
+Schöftland,4144,2500,FALSE,TRUE,good_potential
+Schönenbuch,2774,7500,FALSE,FALSE,moderate_potential
+Schönengrund,3003,0,TRUE,TRUE,high_potential
+Schönenwerd,2583,10308,FALSE,FALSE,moderate_potential
+Schönholzerswilen,4756,0,TRUE,TRUE,high_potential
+Schötz,1143,0,TRUE,TRUE,high_potential
+Schübelbach,1346,5000,FALSE,FALSE,moderate_potential
+Schüpfen,311,2500,FALSE,TRUE,good_potential
+Schüpfheim,1008,7071,FALSE,FALSE,moderate_potential
+Scuol,3762,0,TRUE,TRUE,high_potential
+Seeberg,988,0,TRUE,TRUE,high_potential
+Seedorf (BE),312,0,TRUE,TRUE,high_potential
+Seedorf (UR),1214,5590,FALSE,FALSE,moderate_potential
+Seegräben,119,5590,FALSE,FALSE,moderate_potential
+Seehof,709,0,TRUE,TRUE,high_potential
+Seelisberg,1215,5000,FALSE,FALSE,moderate_potential
+Seengen,4208,2500,FALSE,TRUE,good_potential
+Seewen,2480,0,TRUE,TRUE,high_potential
+Seewis im Prättigau,3972,0,TRUE,TRUE,high_potential
+Seftigen,883,7500,FALSE,FALSE,moderate_potential
+Seltisberg,2833,2500,FALSE,TRUE,good_potential
+Selzach,2556,5000,FALSE,FALSE,moderate_potential
+Sembrancher,6035,0,TRUE,TRUE,high_potential
+Sempach,1102,0,TRUE,TRUE,high_potential
+Semsales,2336,0,TRUE,TRUE,high_potential
+Senarclens,5499,0,TRUE,TRUE,high_potential
+Sennwald,3274,7500,FALSE,FALSE,moderate_potential
+Seon,4209,2500,FALSE,TRUE,good_potential
+Sergey,5762,2500,FALSE,TRUE,good_potential
+Serravalle,5050,20156,FALSE,FALSE,moderate_potential
+Servion,5799,2500,FALSE,TRUE,good_potential
+Seuzach,227,2500,FALSE,TRUE,good_potential
+Sevelen,3275,10308,FALSE,FALSE,moderate_potential
+Siblingen,2953,12500,FALSE,FALSE,moderate_potential
+Sierre,6248,14577,FALSE,FALSE,moderate_potential
+Siglistorf,4319,23585,FALSE,FALSE,moderate_potential
+Signau,907,0,TRUE,TRUE,high_potential
+Signy-Avenex,5728,9014,FALSE,FALSE,moderate_potential
+Sigriswil,938,0,TRUE,TRUE,high_potential
+Silenen,1216,2500,FALSE,TRUE,good_potential
+Sils im Domleschg,3640,2500,FALSE,TRUE,good_potential
+Sils im Engadin/Segl,3789,18028,FALSE,FALSE,moderate_potential
+Silvaplana,3790,16771,FALSE,FALSE,moderate_potential
+Simplon,6009,5000,FALSE,FALSE,moderate_potential
+Sins,4239,2500,FALSE,TRUE,good_potential
+Sion,6266,5000,FALSE,FALSE,moderate_potential
+Sirnach,4761,2500,FALSE,TRUE,good_potential
+Siselen,499,0,TRUE,TRUE,high_potential
+Sisikon,1217,2500,FALSE,TRUE,good_potential
+Sissach,2861,2500,FALSE,TRUE,good_potential
+Sisseln,4177,7906,FALSE,FALSE,moderate_potential
+Siviriez,2099,0,TRUE,TRUE,high_potential
+Soazza,3823,15811,FALSE,FALSE,moderate_potential
+Solothurn,2601,9014,FALSE,FALSE,moderate_potential
+Sommeri,4446,2500,FALSE,TRUE,good_potential
+Sonceboz-Sombeval,444,2500,FALSE,TRUE,good_potential
+Sonvilier,445,0,TRUE,TRUE,high_potential
+Soral,6639,0,TRUE,TRUE,high_potential
+Sorengo,5225,11180,FALSE,FALSE,moderate_potential
+Sorens,2153,0,TRUE,TRUE,high_potential
+Sorvilier,711,2500,FALSE,TRUE,good_potential
+Soubey,6759,0,TRUE,TRUE,high_potential
+Soyhières,6724,2500,FALSE,TRUE,good_potential
+Speicher,3023,0,TRUE,TRUE,high_potential
+Spiez,768,5590,FALSE,FALSE,moderate_potential
+Spiringen,1218,2500,FALSE,TRUE,good_potential
+Spreitenbach,4040,13463,FALSE,FALSE,moderate_potential
+St. Gallen,3203,2500,FALSE,TRUE,good_potential
+St. Margrethen,3236,2500,FALSE,TRUE,good_potential
+St. Moritz,3787,19040,FALSE,FALSE,moderate_potential
+St. Niklaus,6292,5590,FALSE,FALSE,moderate_potential
+St. Silvester,2303,2500,FALSE,TRUE,good_potential
+St. Stephan,793,0,TRUE,TRUE,high_potential
+St. Ursen,2304,5000,FALSE,FALSE,moderate_potential
+Staatswald Galm,2391,0,TRUE,TRUE,high_potential
+Stabio,5266,27614,FALSE,FALSE,moderate_potential
+Stadel,100,18200,FALSE,FALSE,moderate_potential
+Staffelbach,4284,0,TRUE,TRUE,high_potential
+Stalden (VS),6293,3536,FALSE,FALSE,moderate_potential
+Staldenried,6294,2500,FALSE,TRUE,good_potential
+Stallikon,13,12500,FALSE,FALSE,moderate_potential
+Stammheim,292,5590,FALSE,FALSE,moderate_potential
+Stans,1509,5000,FALSE,FALSE,moderate_potential
+Stansstad,1510,7906,FALSE,FALSE,moderate_potential
+Starrkirch-Wil,2584,5590,FALSE,FALSE,moderate_potential
+Staufen,4210,2500,FALSE,TRUE,good_potential
+Steckborn,4864,0,TRUE,TRUE,high_potential
+Steffisburg,939,2500,FALSE,TRUE,good_potential
+Steg-Hohtenn,6204,2500,FALSE,TRUE,good_potential
+Stein (AG),4260,5000,FALSE,FALSE,moderate_potential
+Stein (AR),3005,0,TRUE,TRUE,high_potential
+Stein am Rhein,2964,7500,FALSE,FALSE,moderate_potential
+Steinach,3217,5000,FALSE,FALSE,moderate_potential
+Steinen,1373,2500,FALSE,TRUE,good_potential
+Steinerberg,1374,0,TRUE,TRUE,high_potential
+Steinhausen,1708,5590,FALSE,FALSE,moderate_potential
+Steinmaur,101,22361,FALSE,FALSE,moderate_potential
+Stetten (AG),4041,7071,FALSE,FALSE,moderate_potential
+Stetten (SH),2919,7500,FALSE,FALSE,moderate_potential
+Stettfurt,4606,2500,FALSE,TRUE,good_potential
+Stettlen,358,0,TRUE,TRUE,high_potential
+Stocken-Höfen,770,7500,FALSE,FALSE,moderate_potential
+Strengelbach,4285,2500,FALSE,TRUE,good_potential
+Studen (BE),749,5000,FALSE,FALSE,moderate_potential
+Stäfa,158,7071,FALSE,FALSE,moderate_potential
+Stüsslingen,2499,11180,FALSE,FALSE,moderate_potential
+Subingen,2532,5590,FALSE,FALSE,moderate_potential
+Suchy,5929,0,TRUE,TRUE,high_potential
+Sufers,3695,2500,FALSE,TRUE,good_potential
+Suhr,4012,7906,FALSE,FALSE,moderate_potential
+Sulgen,4506,7071,FALSE,FALSE,moderate_potential
+Sullens,5501,0,TRUE,TRUE,high_potential
+Sumiswald,957,0,TRUE,TRUE,high_potential
+Sumvitg,3985,5590,FALSE,FALSE,moderate_potential
+Surpierre,2044,2500,FALSE,TRUE,good_potential
+Sursee,1103,2500,FALSE,TRUE,good_potential
+Surses,3543,0,TRUE,TRUE,high_potential
+Suscévaz,5930,2500,FALSE,TRUE,good_potential
+Sutz-Lattrigen,750,2500,FALSE,TRUE,good_potential
+Syens,5688,0,TRUE,TRUE,high_potential
+Sâles,2152,0,TRUE,TRUE,high_potential
+Sévaz,2043,11180,FALSE,FALSE,moderate_potential
+Tafers,2306,2500,FALSE,TRUE,good_potential
+Tamins,3733,5590,FALSE,FALSE,moderate_potential
+Tannay,5729,9014,FALSE,FALSE,moderate_potential
+Tartegnin,5862,0,TRUE,TRUE,high_potential
+Tavannes,713,0,TRUE,TRUE,high_potential
+Tecknau,2862,2500,FALSE,TRUE,good_potential
+Tegerfelden,4320,20616,FALSE,FALSE,moderate_potential
+Tenero-Contra,5131,16008,FALSE,FALSE,moderate_potential
+Tenniken,2863,0,TRUE,TRUE,high_potential
+Tentlingen,2307,5000,FALSE,FALSE,moderate_potential
+Termen,6010,7500,FALSE,FALSE,moderate_potential
+Terre di Pedemonte,5396,22361,FALSE,FALSE,moderate_potential
+Teufen (AR),3024,0,TRUE,TRUE,high_potential
+Teufenthal (AG),4145,3536,FALSE,FALSE,moderate_potential
+Teuffenthal (BE),940,0,TRUE,TRUE,high_potential
+Thal,3237,2500,FALSE,TRUE,good_potential
+Thalheim (AG),4117,10607,FALSE,FALSE,moderate_potential
+Thalheim an der Thur,39,0,TRUE,TRUE,high_potential
+Thalwil,141,7500,FALSE,FALSE,moderate_potential
+Thayngen,2920,7500,FALSE,FALSE,moderate_potential
+Therwil,2775,5000,FALSE,FALSE,moderate_potential
+Thierachern,941,9014,FALSE,FALSE,moderate_potential
+Thun,942,2500,FALSE,TRUE,good_potential
+Thundorf,4611,0,TRUE,TRUE,high_potential
+Thunersee,9073,2500,FALSE,TRUE,good_potential
+Thunstetten,342,2500,FALSE,TRUE,good_potential
+Thurnen,889,5000,FALSE,FALSE,moderate_potential
+Thusis,3668,0,TRUE,TRUE,high_potential
+Thônex,6640,3536,FALSE,FALSE,moderate_potential
+Thörigen,989,0,TRUE,TRUE,high_potential
+Thürnen,2864,0,TRUE,TRUE,high_potential
+Titterten,2894,2500,FALSE,TRUE,good_potential
+Tobel-Tägerschen,4776,0,TRUE,TRUE,high_potential
+Toffen,884,0,TRUE,TRUE,high_potential
+Tolochenaz,5649,2500,FALSE,TRUE,good_potential
+Torny,2115,3536,FALSE,FALSE,moderate_potential
+Torricella-Taverne,5227,7071,FALSE,FALSE,moderate_potential
+Trachselwald,958,0,TRUE,TRUE,high_potential
+Tramelan,446,0,TRUE,TRUE,high_potential
+Trasadingen,2973,17500,FALSE,FALSE,moderate_potential
+Treiten,500,2500,FALSE,TRUE,good_potential
+Tresa,5239,17678,FALSE,FALSE,moderate_potential
+Trey,5827,5000,FALSE,FALSE,moderate_potential
+Treycovagnes,5931,2500,FALSE,TRUE,good_potential
+Treytorrens (Payerne),5828,5000,FALSE,FALSE,moderate_potential
+Treyvaux,2226,0,TRUE,TRUE,high_potential
+Triengen,1104,0,TRUE,TRUE,high_potential
+Trient,6142,10308,FALSE,FALSE,moderate_potential
+Triesen,7002,2500,FALSE,TRUE,good_potential
+Triesenberg,7004,5590,FALSE,FALSE,moderate_potential
+Trimbach,2500,5590,FALSE,FALSE,moderate_potential
+Trimmis,3945,2500,FALSE,TRUE,good_potential
+Trin,3734,7071,FALSE,FALSE,moderate_potential
+Trogen,3025,0,TRUE,TRUE,high_potential
+Troinex,6641,2500,FALSE,TRUE,good_potential
+Troistorrents,6156,0,TRUE,TRUE,high_potential
+Trub,908,0,TRUE,TRUE,high_potential
+Trubschachen,909,0,TRUE,TRUE,high_potential
+Trun,3987,2500,FALSE,TRUE,good_potential
+Truttikon,41,3536,FALSE,FALSE,moderate_potential
+Trélex,5730,7071,FALSE,FALSE,moderate_potential
+Trüllikon,40,0,TRUE,TRUE,high_potential
+Tschappina,3669,0,TRUE,TRUE,high_potential
+Tschugg,501,0,TRUE,TRUE,high_potential
+Tuggen,1347,5590,FALSE,FALSE,moderate_potential
+Tujetsch,3986,0,TRUE,TRUE,high_potential
+Turbenthal,228,3536,FALSE,FALSE,moderate_potential
+Turtmann-Unterems,6119,7906,FALSE,FALSE,moderate_potential
+Twann-Tüscherz,756,2500,FALSE,TRUE,good_potential
+Tägerig,4077,5590,FALSE,FALSE,moderate_potential
+Tägerwilen,4696,5000,FALSE,FALSE,moderate_potential
+Täsch,6295,5590,FALSE,FALSE,moderate_potential
+Täuffelen,751,0,TRUE,TRUE,high_potential
+Tévenon,5571,0,TRUE,TRUE,high_potential
+Törbel,6296,0,TRUE,TRUE,high_potential
+Tübach,3218,3536,FALSE,FALSE,moderate_potential
+Udligenswil,1067,0,TRUE,TRUE,high_potential
+Ueberstorf,2308,0,TRUE,TRUE,high_potential
+Uebeschi,943,10607,FALSE,FALSE,moderate_potential
+Uerkheim,4286,3536,FALSE,FALSE,moderate_potential
+Uesslingen-Buch,4616,5590,FALSE,FALSE,moderate_potential
+Uetendorf,944,5590,FALSE,FALSE,moderate_potential
+Uetikon am See,159,2500,FALSE,TRUE,good_potential
+Uezwil,4078,2500,FALSE,TRUE,good_potential
+Ufhusen,1145,2500,FALSE,TRUE,good_potential
+Uitikon,248,12748,FALSE,FALSE,moderate_potential
+Unterbäch,6201,2500,FALSE,TRUE,good_potential
+Untereggen,3219,0,TRUE,TRUE,high_potential
+Unterengstringen,249,18028,FALSE,FALSE,moderate_potential
+Unterentfelden,4013,10000,FALSE,FALSE,moderate_potential
+Unteriberg,1375,0,TRUE,TRUE,high_potential
+Unterkulm,4146,5590,FALSE,FALSE,moderate_potential
+Unterlangenegg,945,2500,FALSE,TRUE,good_potential
+Unterlunkhofen,4079,12500,FALSE,FALSE,moderate_potential
+Unterramsern,2463,10607,FALSE,FALSE,moderate_potential
+Unterschächen,1219,5590,FALSE,FALSE,moderate_potential
+Unterseen,593,5000,FALSE,FALSE,moderate_potential
+Untersiggenthal,4044,15207,FALSE,FALSE,moderate_potential
+Untervaz,3946,0,TRUE,TRUE,high_potential
+Unterägeri,1709,0,TRUE,TRUE,high_potential
+Urdorf,250,13463,FALSE,FALSE,moderate_potential
+Urmein,3670,2500,FALSE,TRUE,good_potential
+Urnäsch,3006,0,TRUE,TRUE,high_potential
+Ursenbach,344,0,TRUE,TRUE,high_potential
+Ursins,5932,0,TRUE,TRUE,high_potential
+Ursy,2102,0,TRUE,TRUE,high_potential
+Urtenen-Schönbühl,551,2500,FALSE,TRUE,good_potential
+Uster,198,3536,FALSE,FALSE,moderate_potential
+Uttigen,885,3536,FALSE,FALSE,moderate_potential
+Uttwil,4451,0,TRUE,TRUE,high_potential
+Utzenstorf,552,7071,FALSE,FALSE,moderate_potential
+Uznach,3339,3536,FALSE,FALSE,moderate_potential
+Uzwil,3408,5000,FALSE,FALSE,moderate_potential
+Vacallo,5268,27500,FALSE,FALSE,moderate_potential
+Vaduz,7001,10000,FALSE,FALSE,moderate_potential
+Val Mara,5240,20000,FALSE,FALSE,moderate_potential
+Val Müstair,3847,12748,FALSE,FALSE,moderate_potential
+Val Terbi,6730,0,TRUE,TRUE,high_potential
+Val de Bagnes,6037,0,TRUE,TRUE,high_potential
+Val-d'Illiez,6157,0,TRUE,TRUE,high_potential
+Val-de-Charmey,2163,0,TRUE,TRUE,high_potential
+Val-de-Ruz,6487,0,TRUE,TRUE,high_potential
+Val-de-Travers,6512,0,TRUE,TRUE,high_potential
+Valbirse,717,0,TRUE,TRUE,high_potential
+Valbroye,5831,2500,FALSE,TRUE,good_potential
+Valeyres-sous-Montagny,5933,0,TRUE,TRUE,high_potential
+Valeyres-sous-Rances,5763,0,TRUE,TRUE,high_potential
+Valeyres-sous-Ursins,5934,0,TRUE,TRUE,high_potential
+Vallon,2045,11180,FALSE,FALSE,moderate_potential
+Vallorbe,5764,0,TRUE,TRUE,high_potential
+Vals,3603,5590,FALSE,FALSE,moderate_potential
+Valsot,3764,5590,FALSE,FALSE,moderate_potential
+Vandoeuvres,6642,2500,FALSE,TRUE,good_potential
+Varen,6116,11180,FALSE,FALSE,moderate_potential
+Vaulion,5765,0,TRUE,TRUE,high_potential
+Vaulruz,2155,0,TRUE,TRUE,high_potential
+Vaux-sur-Morges,5650,0,TRUE,TRUE,high_potential
+Vaz/Obervaz,3506,0,TRUE,TRUE,high_potential
+Vechigen,359,0,TRUE,TRUE,high_potential
+Veltheim (AG),4120,9014,FALSE,FALSE,moderate_potential
+Vendlincourt,6806,9014,FALSE,FALSE,moderate_potential
+Vernate,5230,14142,FALSE,FALSE,moderate_potential
+Vernayaz,6219,5590,FALSE,FALSE,moderate_potential
+Vernier,6643,5000,FALSE,FALSE,moderate_potential
+Versoix,6644,7071,FALSE,FALSE,moderate_potential
+Verzasca,5399,14577,FALSE,FALSE,moderate_potential
+Vevey,5890,2500,FALSE,TRUE,good_potential
+Vex,6089,2500,FALSE,TRUE,good_potential
+Veyrier,6645,3536,FALSE,FALSE,moderate_potential
+Veysonnaz,6267,5000,FALSE,FALSE,moderate_potential
+Veytaux,5891,5590,FALSE,FALSE,moderate_potential
+Vezia,5231,7906,FALSE,FALSE,moderate_potential
+Vich,5732,3536,FALSE,FALSE,moderate_potential
+Vico Morcote,5233,18200,FALSE,FALSE,moderate_potential
+Villars-Epeney,5935,0,TRUE,TRUE,high_potential
+Villars-Sainte-Croix,5651,2500,FALSE,TRUE,good_potential
+Villars-le-Comte,5690,0,TRUE,TRUE,high_potential
+Villars-le-Terroir,5537,0,TRUE,TRUE,high_potential
+Villars-sous-Yens,5652,2500,FALSE,TRUE,good_potential
+Villars-sur-Glâne,2228,7906,FALSE,FALSE,moderate_potential
+Villarsel-sur-Marly,2230,5590,FALSE,FALSE,moderate_potential
+Villarzel,5830,2500,FALSE,TRUE,good_potential
+Villaz,2117,0,TRUE,TRUE,high_potential
+Villeneuve (VD),5414,7071,FALSE,FALSE,moderate_potential
+Villeret,448,0,TRUE,TRUE,high_potential
+Villigen,4121,17500,FALSE,FALSE,moderate_potential
+Villmergen,4080,2500,FALSE,TRUE,good_potential
+Villorsonnens,2114,2500,FALSE,TRUE,good_potential
+Vilters-Wangs,3297,2500,FALSE,TRUE,good_potential
+Vinelz,502,0,TRUE,TRUE,high_potential
+Vinzel,5863,0,TRUE,TRUE,high_potential
+Vionnaz,6158,2500,FALSE,TRUE,good_potential
+Visp,6297,0,TRUE,TRUE,high_potential
+Visperterminen,6298,0,TRUE,TRUE,high_potential
+Vitznau,1068,10607,FALSE,FALSE,moderate_potential
+Volken,43,5000,FALSE,FALSE,moderate_potential
+Volketswil,199,7500,FALSE,FALSE,moderate_potential
+Vordemwald,4287,5000,FALSE,FALSE,moderate_potential
+Vorderthal,1348,0,TRUE,TRUE,high_potential
+Vouvry,6159,5000,FALSE,FALSE,moderate_potential
+Vuadens,2160,0,TRUE,TRUE,high_potential
+Vuarrens,5539,0,TRUE,TRUE,high_potential
+Vucherens,5692,0,TRUE,TRUE,high_potential
+Vufflens-la-Ville,5503,0,TRUE,TRUE,high_potential
+Vufflens-le-Château,5653,0,TRUE,TRUE,high_potential
+Vugelles-La Mothe,5937,2500,FALSE,TRUE,good_potential
+Vuisternens-devant-Romont,2113,0,TRUE,TRUE,high_potential
+Vuiteboeuf,5766,2500,FALSE,TRUE,good_potential
+Vulliens,5803,0,TRUE,TRUE,high_potential
+Vullierens,5654,0,TRUE,TRUE,high_potential
+Vully-les-Lacs,5464,7071,FALSE,FALSE,moderate_potential
+Vérossaz,6220,5590,FALSE,FALSE,moderate_potential
+Vétroz,6025,9014,FALSE,FALSE,moderate_potential
+Wachseldorn,946,0,TRUE,TRUE,high_potential
+Wagenhausen,4871,7500,FALSE,FALSE,moderate_potential
+Wahlen,2792,2500,FALSE,TRUE,good_potential
+Walchwil,1710,0,TRUE,TRUE,high_potential
+Wald (AR),3036,2500,FALSE,TRUE,good_potential
+Wald (BE),888,0,TRUE,TRUE,high_potential
+Wald (ZH),120,0,TRUE,TRUE,high_potential
+Waldenburg,2895,2500,FALSE,TRUE,good_potential
+Waldkirch,3444,0,TRUE,TRUE,high_potential
+Waldstatt,3007,0,TRUE,TRUE,high_potential
+Walenstadt,3298,2500,FALSE,TRUE,good_potential
+Walkringen,626,0,TRUE,TRUE,high_potential
+Wallbach,4261,5590,FALSE,FALSE,moderate_potential
+Wallisellen,69,11180,FALSE,FALSE,moderate_potential
+Walliswil bei Niederbipp,990,2500,FALSE,TRUE,good_potential
+Walliswil bei Wangen,991,0,TRUE,TRUE,high_potential
+Walperswil,754,0,TRUE,TRUE,high_potential
+Waltenschwil,4240,2500,FALSE,TRUE,good_potential
+Walterswil (BE),959,0,TRUE,TRUE,high_potential
+Walterswil (SO),2585,5000,FALSE,FALSE,moderate_potential
+Walzenhausen,3037,2500,FALSE,TRUE,good_potential
+Wangen (SZ),1349,3536,FALSE,FALSE,moderate_potential
+Wangen an der Aare,992,0,TRUE,TRUE,high_potential
+Wangen bei Olten,2586,5000,FALSE,FALSE,moderate_potential
+Wangen-Brüttisellen,200,10000,FALSE,FALSE,moderate_potential
+Wartau,3276,5590,FALSE,FALSE,moderate_potential
+Warth-Weiningen,4621,3536,FALSE,FALSE,moderate_potential
+Wassen,1220,12500,FALSE,FALSE,moderate_potential
+Wasterkingen,70,16771,FALSE,FALSE,moderate_potential
+Wattenwil,886,7906,FALSE,FALSE,moderate_potential
+Wattwil,3379,0,TRUE,TRUE,high_potential
+Wauwil,1146,0,TRUE,TRUE,high_potential
+Weesen,3316,10000,FALSE,FALSE,moderate_potential
+Wegenstetten,4262,5590,FALSE,FALSE,moderate_potential
+Weggis,1069,5000,FALSE,FALSE,moderate_potential
+Weiach,102,20616,FALSE,FALSE,moderate_potential
+Weinfelden,4946,0,TRUE,TRUE,high_potential
+Weiningen (ZH),251,15811,FALSE,FALSE,moderate_potential
+Weisslingen,180,0,TRUE,TRUE,high_potential
+Welschenrohr-Gänsbrunnen,2430,2500,FALSE,TRUE,good_potential
+Wengi,394,7906,FALSE,FALSE,moderate_potential
+Wenslingen,2865,5000,FALSE,FALSE,moderate_potential
+Werthenstein,1009,0,TRUE,TRUE,high_potential
+Wettingen,4045,14142,FALSE,FALSE,moderate_potential
+Wettswil am Albis,14,15207,FALSE,FALSE,moderate_potential
+Wetzikon (ZH),121,2500,FALSE,TRUE,good_potential
+Wichtrach,632,2500,FALSE,TRUE,good_potential
+Widen,4081,9014,FALSE,FALSE,moderate_potential
+Widnau,3238,0,TRUE,TRUE,high_potential
+Wiedlisbach,995,2500,FALSE,TRUE,good_potential
+Wiesendangen,298,0,TRUE,TRUE,high_potential
+Wiggiswil,553,5590,FALSE,FALSE,moderate_potential
+Wigoltingen,4951,2500,FALSE,TRUE,good_potential
+Wikon,1147,2500,FALSE,TRUE,good_potential
+Wil (SG),3427,2500,FALSE,TRUE,good_potential
+Wil (ZH),71,12500,FALSE,FALSE,moderate_potential
+Wila,181,2500,FALSE,TRUE,good_potential
+Wilchingen,2974,12500,FALSE,FALSE,moderate_potential
+Wildberg,182,0,TRUE,TRUE,high_potential
+Wilderswil,594,3536,FALSE,FALSE,moderate_potential
+Wildhaus-Alt St. Johann,3359,5590,FALSE,FALSE,moderate_potential
+Wilen (TG),4786,2500,FALSE,TRUE,good_potential
+Wiler (Lötschen),6202,12748,FALSE,FALSE,moderate_potential
+Wiler bei Utzenstorf,554,7906,FALSE,FALSE,moderate_potential
+Wileroltigen,671,0,TRUE,TRUE,high_potential
+Wiliberg,4288,0,TRUE,TRUE,high_potential
+Willadingen,423,5590,FALSE,FALSE,moderate_potential
+Willisau,1151,0,TRUE,TRUE,high_potential
+Wimmis,769,5000,FALSE,FALSE,moderate_potential
+Windisch,4123,10000,FALSE,FALSE,moderate_potential
+Winkel,72,14142,FALSE,FALSE,moderate_potential
+Wintersingen,2866,0,TRUE,TRUE,high_potential
+Winterthur,230,3536,FALSE,FALSE,moderate_potential
+Winznau,2501,10308,FALSE,FALSE,moderate_potential
+Wisen (SO),2502,5590,FALSE,FALSE,moderate_potential
+Wittenbach,3204,0,TRUE,TRUE,high_potential
+Witterswil,2481,2500,FALSE,TRUE,good_potential
+Wittinsburg,2867,0,TRUE,TRUE,high_potential
+Wittnau,4181,9014,FALSE,FALSE,moderate_potential
+Wohlen (AG),4082,3536,FALSE,FALSE,moderate_potential
+Wohlen bei Bern,360,0,TRUE,TRUE,high_potential
+Wohlenschwil,4046,5590,FALSE,FALSE,moderate_potential
+Wolfenschiessen,1511,0,TRUE,TRUE,high_potential
+Wolfhalden,3038,0,TRUE,TRUE,high_potential
+Wolfwil,2408,0,TRUE,TRUE,high_potential
+Wolhusen,1107,0,TRUE,TRUE,high_potential
+Wollerau,1323,5000,FALSE,FALSE,moderate_potential
+Worb,627,0,TRUE,TRUE,high_potential
+Worben,755,7906,FALSE,FALSE,moderate_potential
+Wuppenau,4791,0,TRUE,TRUE,high_potential
+Wynau,345,2500,FALSE,TRUE,good_potential
+Wynigen,424,0,TRUE,TRUE,high_potential
+Wyssachen,960,0,TRUE,TRUE,high_potential
+Wädenswil,293,5000,FALSE,FALSE,moderate_potential
+Wäldi,4701,0,TRUE,TRUE,high_potential
+Wängi,4781,3536,FALSE,FALSE,moderate_potential
+Wölflinswil,4182,12500,FALSE,FALSE,moderate_potential
+Wünnewil-Flamatt,2309,0,TRUE,TRUE,high_potential
+Würenlingen,4047,17678,FALSE,FALSE,moderate_potential
+Würenlos,4048,14577,FALSE,FALSE,moderate_potential
+Yens,5655,2500,FALSE,TRUE,good_potential
+Yverdon-les-Bains,5938,2500,FALSE,TRUE,good_potential
+Yvonand,5939,2500,FALSE,TRUE,good_potential
+Yvorne,5415,7071,FALSE,FALSE,moderate_potential
+Zeglingen,2868,5590,FALSE,FALSE,moderate_potential
+Zeihen,4183,12500,FALSE,FALSE,moderate_potential
+Zeiningen,4263,0,TRUE,TRUE,high_potential
+Zell (LU),1150,0,TRUE,TRUE,high_potential
+Zell (ZH),231,2500,FALSE,TRUE,good_potential
+Zeneggen,6299,2500,FALSE,TRUE,good_potential
+Zermatt,6300,0,TRUE,TRUE,high_potential
+Zernez,3746,7906,FALSE,FALSE,moderate_potential
+Zetzwil,4147,0,TRUE,TRUE,high_potential
+Ziefen,2834,0,TRUE,TRUE,high_potential
+Zielebach,556,7906,FALSE,FALSE,moderate_potential
+Zihlschlacht-Sitterdorf,4511,5000,FALSE,FALSE,moderate_potential
+Zillis-Reischen,3712,0,TRUE,TRUE,high_potential
+Zizers,3947,2500,FALSE,TRUE,good_potential
+Zofingen,4289,0,TRUE,TRUE,high_potential
+Zollikofen,361,5000,FALSE,FALSE,moderate_potential
+Zollikon,161,5590,FALSE,FALSE,moderate_potential
+Zuchwil,2534,7500,FALSE,FALSE,moderate_potential
+Zufikon,4083,10308,FALSE,FALSE,moderate_potential
+Zug,1711,0,TRUE,TRUE,high_potential
+Zullwil,2622,2500,FALSE,TRUE,good_potential
+Zumikon,160,3536,FALSE,FALSE,moderate_potential
+Zunzgen,2869,0,TRUE,TRUE,high_potential
+Zuoz,3791,24749,FALSE,FALSE,moderate_potential
+Zurzach,4324,22361,FALSE,FALSE,moderate_potential
+Zuzgen,4264,2500,FALSE,TRUE,good_potential
+Zuzwil (BE),557,5590,FALSE,FALSE,moderate_potential
+Zuzwil (SG),3426,2500,FALSE,TRUE,good_potential
+Zweisimmen,794,0,TRUE,TRUE,high_potential
+Zwingen,2793,2500,FALSE,TRUE,good_potential
+Zwischbergen,6011,12500,FALSE,FALSE,moderate_potential
+Zäziwil,628,0,TRUE,TRUE,high_potential
+Zürich,261,7071,FALSE,FALSE,moderate_potential
+Zürichsee (ZH),9051,5000,FALSE,FALSE,moderate_potential
